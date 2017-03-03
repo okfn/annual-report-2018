@@ -1,0 +1,275 @@
+- text: |
+    In the last decade, we at Open Knowledge International have pioneered the open knowledge movement, encouraging, pushing and supporting governments, corporations, researchers and civil society from around the world to make their data open. We have developed various tools, and provided trainings to help turn open data into insight and knowledge, making it useful for society.
+
+    Open data as an idea might have become mainstream, but much work still remains to be done.
+
+    First, there is much work to be done to make essential, public interest information open. As the [Open Data Index](http://index.okfn.org/) shows for government data, many, many datasets are still not open.
+
+    Second, there is a lot of work to see not just open data, but high quality open data. In the first phase of many open data initiatives there was, rightly, a focus on “getting it out there” - simply getting datasets out.  Without improvements in data quality, many of the potential benefits of open data could be lost, as the data while theoretically “open”, will not actually be usable in practice.
+
+    Third, there needs to be more systematic thought about what data is collected and or what purpose. So far, the Open Data movement has tended to focus on the release of pre-existing datasets. But as we move forward, we want to think more about what data we are collecting, for whom, and why.
+
+    Finally, we are only at the very earliest stages of systematically turning open data and information into the insight and knowledge that really empower people and organizations to bring about real change. Our mission remains the same - to open up all essential, public interest information, and see it used to create insight that drives change - but our approach and focus shifts with time and understanding of what is required at that moment to achieve the mission.
+
+    In this annual report,  we share in more detail our successes, learnings, and structural  changes over the last year, and also our vision for the future.
+
+    In 2015, we undertook the largest number of open knowledge projects and trainings. We participated  in and led various events around the world. We expanded and strengthened our global Open Knowledge Network and community. Today, due to the work of our global network of community members and dedicated staff base,  in a range of fields such as Open Science, Open Access, and Open Government, we can proudly say that the concepts of open knowledge and open data have reached a wider audience. We would especially like to thank [those who funded us during this reporting period](https://okfn.org/about/partners-and-funders/).
+
+    We look forward to an even more exciting 2016, that is sure to bring new projects, initiatives, events and opportunities to work together with you, our community. We can’t wait to get started!
+
+    **Pavel Richter** - CEO
+
+    **Rufus Pollock** - Founder / President
+
+    For: The Open Knowledge International Team
+
+
+- section: Vision & Mission
+  text: |
+    ### Our Vision
+    A world where open knowledge is ubiquitous, enabling citizens and organizations to create insights that drive change on global and local challenges, that combat injustice and inequality and hold governments and corporations  to account.
+
+    ### Our Mission
+    To open up all essential, public interest, information and see it used to create insight that drives change. To this end we work to create a global movement for open knowledge, supporting a network of leaders and local groups around the world, facilitate coordination and knowledge sharing within the movement, and prototype and provide a home for pioneering projects demonstrating the impact of open knowledge.
+
+- section: Highlights of 2015
+  text: |
+    ### Open Knowledge International Team
+    In April of this year,  we were delighted to finally [announce the appointment of Pavel Richter as CEO](http://blog.okfn.org/2015/04/29/open-knowledge-appoints-pavel-richter-as-new-ceo/), who joined us in June. We’re very excited to see what new adventures and opportunities Pavel will lead us to!
+
+    With Pavel taking over the executive leadership of Open Knowledge International as an organisation, [Rufus Pollock has moved into a different role](http://blog.okfn.org/2016/02/26/rufus-pollock-i-am-now-non-executive-at-open-knowledge-international/). He will once again focus on defending and expanding this space on a global scale and on  the larger aspects of openness, such as the technical, social and political barriers that we see getting erected all over the world.
+
+  subsections:
+    - title: Open Knowledge International projects
+      logos:
+        - name: Global Open Data Index
+          image: img/index.png
+          url: http://index.okfn.org/
+
+        - name: OpenTrials
+          image: img/opentrials.png
+          url: http://opentrials.net/
+
+        - name: Frictionless Data
+          image: img/frictionlessdata.png
+          url: http://frictionlessdata.io/
+
+        - name: Open Spending
+          image: img/openspending.png
+          url: https://openspending.org/
+
+        - name: CKAN
+          image: img/ckan.png
+          url: http://ckan.org/
+
+        - name: School of Data
+          image: img/schoolofdata.png
+          url: http://schoolofdata.org/
+
+        - name: Open GLAM
+          image: img/glam.png
+          url: http://openglam.org/open-collections/
+
+    - text: |
+
+        #### Projects Open Knowledge Internationl collaborated on:
+        - [OD4D](http://od4d.net/)
+        - [Local Open Data Index](http://census.okfn.org/)
+        - [Open Data Handbook](http://opendatahandbook.org/)
+        - [DRC Timber Trade Tracker](http://drctimbertracker.globalwitness.org/)
+        - [Budget Survey Tracker](http://www.internationalbudget.org/opening-budgets/open-budget-initiative/open-budget-survey-tracker/)
+        - [DCENT](http://dcentproject.eu/)
+        - [Open Budgets EU](http://openbudgets.eu)
+        - [Data Journalism workshops and trainings Philippines](http://datajournalism2015.ph/)
+        - [Route to PA](http://routetopa.eu/)
+        - [FutureTDM](http://futuretdm.eu)
+        - [PASTEUR4OA](http://pasteur4oa.eu)
+
+        ### Open Knowledge International Events
+        Events continue to be a key source of vital interaction of the people who are building the open knowledge movement: ourselves, like-minded organisations, network leaders and interested parties.
+
+        - [Open Data Day 2015](http://opendataday.org/)
+        - [Open Budget workshop](http://openbudgets.eu/events/2015/10/13/open-budgets-stakeholder-workshop/)
+        - [School of data summer camp](http://schoolofdata.org/school-of-data-summer-camp/)
+        - [International Open Data Conference 2015 participation](http://blog.okfn.org/2015/05/23/open-knowledge-international-does-iodc2015/)
+
+        ### Open Knowledge International Network in the News
+        Our Open Knowledge team wrote so many great articles in 2015.  Here’s a selection of some of our outstanding pieces that gives you an idea of what our team and network were doing:
+
+        #### What our Network was up to:
+        - [BudgetApps - the first all-Russia contest on open finance data](http://blog.okfn.org/2015/01/16/budgetapps-the-first-all-russia-contest-on-open-finance-data/)
+        - [Launch of the CKAN based Pakistan Data Portal at the 30th Annual Sustainable Development - Conference](http://blog.okfn.org/2015/02/09/pakistan-data-portal/)
+        - [Open Knowledge Ireland calls for open health sector data](http://openknowledge.ie/open-knowledge-ireland-calls-for-hospital-waiting-list-open-data/)
+        - [Open Knowledge Pakistan: How open data can change Pakistan](http://blog.okfn.org/2015/03/09/how-open-data-can-change-pakistan/)
+        - [Open Knowledge Belgium partners with Mediaraven for the Datawijs project](http://www.openknowledge.be/2015/05/19/lets-talk-datawijs/) - [an interactive multimedia website showcasing Open Data for youths](http://datawijs.be/#beginbeeld)
+        - [Romania’s first Open Culture Hackathon](http://openglam.org/2015/05/07/romanias-first-open-culture-hackathon/)
+        - [OpenSpending technical road map](http://community.openspending.org/blog/2015/04/15/announcing-a-new-architectural-roadmap-for-openspending/)
+        - [Open Knowledge Labs introduces Good Tables](http://okfnlabs.org/blog/2015/02/20/introducing-goodtables.html)
+        - [A series of blog posts looking at Open Education initiatives](http://education.okfn.org/world/)
+        - [Community building through the D2ME project](http://blog.okfn.org/2015/04/08/community-building-through-the-dm2e-project/)
+        - [Exploring the Open Knowledge identity](https://discuss.okfn.org/t/about-the-exploring-the-ok-identity-category/204)
+        - [Sustainability models for Local Groups (led by Open Knowledge International)](https://pad.okfn.org/p/local-groups-sustainable-models)
+
+        #### Insight from our Network on the Open Data Index:
+        - [Intro blog](http://blog.okfn.org/2015/12/09/the-global-open-data-index-2015-is-live-what-is-you-country-status/)
+        - [NDI](http://blog.okfn.org/2015/12/24/unlocking-election-results-data-signs-of-progress-but-challenges-still-remain/)
+        - [Nepal](http://blog.okfn.org/2016/01/07/open-data-goes-local-in-nepal-findings-of-nepal-open-data-index-2015/)
+        - [SE Asia](http://blog.okfn.org/2015/12/15/the-state-of-open-data-in-southeast-asia/)
+        - [Government contracts](http://blog.okfn.org/2015/12/09/government-contracts-still-a-long-way-from-open/)
+        - [Taiwan](http://blog.okfn.org/2015/12/16/global-open-data-index-2015-taiwan-index/)
+        - [Uruguay](http://blog.okfn.org/2015/12/09/global-open-data-index-2015-uruguay-insight/)
+        - [UK](http://blog.okfn.org/2015/12/09/global-open-data-index-2015-united-kingdom-insight/)
+        - [Rwanda](http://blog.okfn.org/2015/12/09/global-open-data-index-rwanda/)
+        - [Kosovo](http://blog.okfn.org/2015/12/14/global-open-data-index-kosovo-insight/)
+
+        #### What we researched and wrote about:
+        - The Economist article: [Out of the Box: Open Government Data](http://www.economist.com/news/international/21678833-open-data-revolution-has-not-lived-up-expectations-it-only-getting)
+        - [Five ways open data can boost democracy around the world](http://www.theguardian.com/public-leaders-network/2015/feb/20/open-data-day-fairer-taxes)
+        - [Data Revolution for Whom](https://www.opendemocracy.net/ourkingdom/jonathan-grey/data-revolution-for-whom)
+        - [Making Climate Negociations Public](https://opendemocracy.net/uk/jonathan-gray-tommaso-venturini-rufus-pollock/making-climate-negotiations-public)
+        - [Why Open Data Doesn’t Mean Open Government](http://www.theguardian.com/media-network/2015/dec/02/china-russia-open-data-open-government)
+        - [Open Budget Data](http://www.fiscaltransparency.net/resourcesfiles/files/20150902128.pdf), with GIFT & digital methods intitaitive
+        - [Democratising the Data Revolution](http://blog.okfn.org/2015/07/09/democratising-the-data-revolution/)
+        - [Where does Europe’s Money Go](http://blog.okfn.org/2015/07/02/where-does-europes-money-go/)
+
+        #### What we produced and watched:
+        - Open Government, [Data & Source Film](http://blog.okfn.org/2015/09/29/open-a-short-film-about-open-government-open-data-and-open-source/)
+        - [Open Trials walkthrough](https://youtu.be/8RxULD-8Gwg) with Ben Goldacre
+        - School of Data [Summer Camp](https://www.youtube.com/watch?v=zfJUcgH2Wzc)
+        - Putting Open at the heart of digital age, [Rufus Pollock at PDF NYC](https://www.youtube.com/watch?v=4nsVs87QGhQ)
+
+- section: Open Knowledge Family
+  text: |
+    Thanks to our Open Knowledge family, our network, for all their hard work, dedication and passion this year. A special thanks to our amazing staff!
+
+    ### Open Knowledge International 2015 Team
+
+  subsections:
+    - title: Leadership Team
+      people:
+        - name: Pavel Richter
+          role: CEO
+          photo: "https://d22739b8qd5enr.cloudfront.net/media/cache/36/39/36390beccdcc5c1b2e056b455bfd3633.jpg"
+        - name: Rufus Pollock
+          role: President (non-executive)
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/92/4b/924b3c03d4dff9fa1623f16ac098ece5.jpg
+        - name: Sander van der Waal
+          role: Projects Director
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/b8/93/b89343a04a15c801fab4134815bd0903.jpg
+        - name: Naomi Lillie
+          role: Executive Assistant
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/92/60/926024b1c1283c4635efaf60d6593c2c.jpg
+    - title: Operations
+      people:
+        - name: Arturas Verbickas
+          role: Business Development Manager
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/3f/fa/3ffa4ce22dcd90a200c70212cd111f16.jpg
+        - name: Cassandra Woolford
+          role: Accounts Administrator
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/26/fa/26fa8a08def4fcc676934e71c2e0d064.jpg
+        - name: Michelle Heydon
+          role: Chief of Finance
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/ef/38/ef38019f7dba3672ec03fd017559bf18.jpg
+        - name: Nigel Babu
+          role: Senior Systems Administrator and Developer
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/58/7e/587e11316ed8f0ca5aa54d2fad83ad45.jpg
+    - title: Project Delivery
+      people:
+        - name: Cecile LeGuen
+          role: Project Manager [Open Spending and Budget EU]
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/ca/f3/caf38f23fcd54a58ea8cce4c4f984bba.jpg
+        - name: Cédric Lombion
+          role: Community Manager and Trainer [School of Data]
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/1a/72/1a723808711c340a06698ebc7693dd64.jpg
+        - name: Danny Lämmerhirt
+          role: Researcher
+          photo: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAIBAAAAJGFiMDBmMDhiLTdhYjYtNDQ5Yi1hYmRmLTQ3NGJkYzM3NjQ5ZA.jpg
+        - name: Emma Beer
+          role: Senior Project Manager [Open Trials and Share PSI]
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/16/f9/16f953ce23ea64970fa966d57a793185.jpg
+        - name: Jo Barratt
+          role: Project Manager [Frictionless Data]
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/ae/c1/aec163df6a40947cb9dd6b9a83ffd2cc.jpg
+        - name: Jonathan Gray
+          role: Director of Policy and Research
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/51/86/51861f8ae46a5e62d57cf6dbba2d64ea.jpg
+        - name: Katelyn Rogers
+          role: Project Manager [OD4D]
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/4a/46/4a464c88cdbbe80f5b7f12e448f82b89.jpg
+        - name: Lieke Ploeger
+          role: Community Manager [OpenGLAM]
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/58/89/5889d28777e4b14a950a8e5d4a7bc4b3.jpg
+        - name: Marco Tulio Pires
+          role: Programme Manager [School of Data]
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/70/e6/70e6d2d31060e96c09b98aa8d2997cff.jpg
+        - name: Meg Foulkes
+          role: Administrator and Coordinator [School of Data]
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/bf/ab/bfab69f43b15aefbac20f195cec9617f.jpg
+        - name: Mor Rubinstein
+          role: International Community Coordinator
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/6a/48/6a4842da58d9c46f56625935867b2a7f.jpg
+        - name: Neal Bastek
+          role: Digital Communications Director
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/ed/bd/edbd9dabd28facd2e9e153d08677ee91.jpg
+        - name: Sam Leon
+          role: Senior Analyst and Trainer
+          photo: http://www.bunkaradio.com/uploads/2/0/9/0/20905324/8770508.jpg
+        - name: Tony Hirst
+          role: Data Storyteller
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/5c/1b/5c1bdf1057b3f224c02d78ecb710266b.jpg
+    - title: Technical Team
+      people:
+        - name: Adam Kariv
+          role: Technical Lead  [OpenSpending]
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/38/c8/38c8841e9b84fd7ca3c9872c55508402.jpg
+        - name: Adria Mercader
+          role: Senior Developer [CKAN Technical Lead]
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/ab/55/ab55cb8d2458e91c6589b661f024a3c7.jpg
+        - name: Brook Elgie
+          role: Developer
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/57/ae/57ae6a1cee66ff4864248489f845210a.jpg
+        - name: Dan Fowler
+          role: Developer Advocate
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/4b/14/4b14540b97eff480abd29b75b7069452.jpg
+        - name: Paul Walsh
+          role: Head of Technical Product
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/0a/33/0a331515235bae90d5aef6a6b572b137.jpg
+        - name: Sam Smith
+          role: Designer
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/4b/26/4b26f03c64e26132576bf17aaf1552ee.jpg
+        - name: Vítor Baptista
+          role: Developer
+          photo: https://d22739b8qd5enr.cloudfront.net/media/cache/2b/e6/2be6b91fc5762a68e9c74e499a2ffc94.jpg
+
+    - text: |
+
+        ### Open Knowledge Network
+        The Open Knowledge Network is a global network of nationally based independent chapters, ambassadors, local groups, affiliated organizations, and communities. An updated list of these groups is on the Open Knowledge Network page. The Network is comprised of people who organise to deepen their knowledge, experience and professional networks in the open knowledge movement, take local action to achieve local impact, and collaborates with like-minded communities around the world. Keep in touch and read about the network activities in our [blog](http://planet.okfn.org/).
+
+        The Open Knowledge Network is made up of Local Organisers, Ambassadors, Local Groups, Labs, Working Groups, Affiliates, Chapters and Open Knowledge International.
+
+        #### Open Knowledge Chapters:
+        - [Germany](https://okfn.de/en/)
+        - [Spain](http://okfn.es/)
+        - [Ireland](http://openknowledge.ie/)
+        - [Switzerland](http://opendata.ch/)
+        - [Brazil](http://br.okfn.org/)
+        - [Greece](http://okfn.gr/)
+        - [Austria](http://okfn.at/)
+        - [Finland](http://fi.okfn.org/)
+        - [Belgium](http://www.openknowledge.be/)
+
+        This year we launched our Open Knowledge [Discourse forum](https://discuss.okfn.org/), a place where members of the network can communicate about different topics and projects. Join our forum to keep up to date with the network activities, thoughts and ideas.
+
+- section: Looking forward to 2016
+  text: |
+    Looking forward to this year, there is still much work to be done to make essential, public interest, information open. As the [Open Data Index](http://index.okfn.org/) shows for government data, many, many datasets are still not open.
+
+    In 2016, we plan to go beyond our advocacy efforts, focusing more on tools and training, and high impact projects capable of reaching out to an even wider audience. We will look to grow and strengthen our Network, while cultivating and supporting our chapters & community.
+
+    We are extremely proud of the efforts and achievements  of our team and community over the last decade. We are looking forward to the next phase of our work, and to making open knowledge a global reality - a world where everyone has access to key information and the ability to use it to understand and shape their own lives; where powerful institutions are comprehensible and accountable; and where vital research information that can help us tackle challenges such as poverty and climate change is available to all.
+
+    #### Staying in touch & getting involved
+    Our community is what keeps us motivated! We love to stay in touch and hear what you’ve been up to. We’ve moved from mailing lists to [Discourse](https://discuss.okfn.org/), and are developing a directory in the meantime, [okfn.org/network](https://okfn.org/network/) is a good source of contact information for the key leaders of the network. (For more information about the groups and other engagement routes, see [okfn.org/get-involved](https://okfn.org/get-involved/))
+
+    We’d love to hear from you on our social media channels, including our [Facebook](https://www.facebook.com/OKFNetwork/) and [Twitter](https://twitter.com/okfn). Thanks to all of you for being part of a great 2015 and we can’t wait to see what this year has in store. We hope you’ll join us for the ride!

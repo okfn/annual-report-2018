@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<div class="intro" id="top">
+  <div class="container">
+    <h1>{{ site.title | markdownify }}</h1>
+    <span class="description">{{ site.description }}</span>
+  </div>
+</div>
+
+{% for s in site.data.content %}
+  <section id="{{ s.section | downcase | replace:' ','-' | replace:'&','' | replace:'--','-' }}">
+    <div class="container">
+      {% if s.section %}
+      <h2>{{ s.section }}</h2>
+      {% endif %}
+      {{ s.text | markdownify }}
+
+      {% if s.subsections %}
+        {% for sub in s.subsections %}
+          {% if sub.title %}
+          <h4>
+            {{ sub.title }}
+          </h4>
+          {% endif %}
+          {% if sub.people %}
+          <ul class="people">
+            {% for p in sub.people %}
+            <li>
+              <span class="image">
+                <span{% if p.photo %} style="background-image: url({{ p.photo }});"{% endif %}></span>
+              </span>
+              <span class="name">
+                {{ p.name }}
+              </span>
+              {% if p.role %}
+              <span class="role">
+                {{ p.role }}
+              </span>
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+          {% elsif sub.logos %}
+          <ul class="logos">
+            {% for l in sub.logos %}
+            <li>
+              <a{% if l.url %} href="{{ l.url  }}"{% endif %} style="background-image: url({{ l.image }});">
+                {{ l.name }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% elsif sub.text %}
+          {{ sub.text | markdownify }}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </section>
+{% endfor %}
