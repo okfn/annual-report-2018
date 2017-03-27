@@ -1,5 +1,5 @@
 - section: Message from the CEO
-text: |
+  text: |
     How can we continue to ensure citizens have access to the best available data to address today’s most pressing issues? What kinds of data are most useful for tackling these issues? These are some of the questions we’ve been asking ourselves at Open Knowledge International over the last year and that continue to guide our work.
 
     In 2016 we played a vital role in providing wider access to quality data and building momentum for open data. We are more determined than ever before to strengthen our efforts and our community to ensure data is not only available, but is being used in innovative and useful ways. We’ve spent considerable time over the last few months refining our mission: to empower civil society organisations to use open data to improve people's lives.
@@ -15,10 +15,10 @@ text: |
     In 2016, we launched useful tools, trained groups and individuals to use open data in exciting ways, and worked with a number of new partners. We participated in and led workshops on the role of data in society. We spun-off our commercial services arm to [Viderum](http://www.viderum.com/), ensuring our focus can remain strong on civil society organisations. We expanded and strengthened our global Open Knowledge Network and wider community. We would especially like to thank those who funded us during this reporting period.
 
     2017 is already off to a great start with the announcement of a [two-year grant from Omidyar Network](https://blog.okfn.org/2017/02/20/open-knowledge-international-receives-1-5-million-from-omidyar-network/) to support the implementation of our civil society-focused strategy. And for a sneak preview of things to come, why not read our [white paper](http://datafortaxjustice.net/what-do-they-pay/) on why we want to create a public database of multinational tax contributions or take a look at how [public data is fostering civic engagement in cities](https://blog.okfn.org/2017/02/09/data-and-the-city-new-report-on-how-public-data-is-fostering-civic-engagement-in-urban-regions/).
-   
-   **Pavel Richter** - CEO
 
-   For: The Open Knowledge International Team
+    **Pavel Richter** - CEO
+
+    For: The Open Knowledge International Team
 
 - section: Highlights from our projects
   subsections:
@@ -49,19 +49,19 @@ text: |
           url: http://schoolofdata.org/
   text: |
     ### Global Open Data Index
-    The Global Open Data Index (GODI) measures and benchmarks the openness of government data around the world, and presents  this information in a way that is easy for citizens to understand and use. In 2016 we gave the GODI a [methodological makeover](https://blog.okfn.org/2016/06/15/introducing-the-new-proposed-global-open-data-index-survey/). We adapted the survey questions to reflect the vital need for more useful data by introducing essential data characteristics upon which specific datasets are evaluated. We also added qualitative fields to understand better the population of our submitters and the data they require. These steps will ensure the GODI is a more comprehensive civil society audit and a useful tool to encourage dialogue between data publishers and civil society. 
-    
+    The Global Open Data Index (GODI) measures and benchmarks the openness of government data around the world, and presents  this information in a way that is easy for citizens to understand and use. In 2016 we gave the GODI a [methodological makeover](https://blog.okfn.org/2016/06/15/introducing-the-new-proposed-global-open-data-index-survey/). We adapted the survey questions to reflect the vital need for more useful data by introducing essential data characteristics upon which specific datasets are evaluated. We also added qualitative fields to understand better the population of our submitters and the data they require. These steps will ensure the GODI is a more comprehensive civil society audit and a useful tool to encourage dialogue between data publishers and civil society.
+
     In 2016 we upgraded the open data census and [created a new survey platform](https://blog.okfn.org/2017/01/17/structuring-a-global-online-survey-a-question-engine-for-open-data-surveys/). We improved the survey user experience with a new look and feel. We also applied this design change to all of our Local Open Data Index instances as well.
 
     We have been experimenting with a new schedule of submitting to the Index, starting in November and finishing in January. With over 85 countries already submitted, we are now in the process of the review phase. Mark you calendars! We are aiming to publish the Index results on May 2nd, 2017.
-   
+
     ### OpenTrials
     OpenTrials is a collaboration between Open Knowledge International and Dr Ben Goldacre from the University of Oxford DataLab. It aims to locate, match, and share all publicly accessible data and documents, on all trials conducted, on all medicines and other treatments, globally. OpenTrials [launched in beta](http://opentrials.net/2016/10/10/opentrials-launches-beta-version-today-at-the-world-health-summit/) at the World Health Summit in October 2016. Anyone can now visit [OpenTrials.net](http://opentrials.net/) to find out more or go to [explorer.opentrials.net](https://explorer.opentrials.net/) to test out the OpenTrials search tools and API.
-    
+
     The OpenTrials team also built the [OpenTrials FDA](https://fda.opentrials.net/search) prototype - created in partnership with Dr Erick Turner of Oregon Health and Science University. OpenTrials FDA was one of three finalists competing for the 2017  Open Science Prize. More details on the Open Science Prize can be found on our [blog here](http://opentrials.net/2017/01/10/opentrialsfda-voted-into-top-3-of-open-science-prize/).
 
     In 2017, we will start to launch several trial trackers powered by data from OpenTrials as well as collaborating with the University of Oxford to produce multiple research reports with insights gleaned from OpenTrials. We will also plan out phase 2 of the OpenTrials project, expanding and improving our beta version in consultation with clinical experts.
-    
+
     ### Frictionless Data
     [Frictionless Data](http://frictionlessdata.io/) is about removing the friction in working with data and is a technical approach based on the Data Package standard— a containerization format built around existing practices for publishing open-source software. 2016 was the first year of a two-year grant from the [Sloan Foundation](https://sloan.org/) to explore the use of Data Packages in research.
 
@@ -70,23 +70,23 @@ text: |
     We have embarked on pilot partnerships with organisations including [DM4T](http://www.cs.bath.ac.uk/dm4t/index.shtml), [The Pacific Northwest National Laboratory](https://www.pnl.gov/) and [The Western Pennsylvania Regional Data Center](http://www.wprdc.org/) in order to trial our approach and tooling. We were co-organisers of [csv,conf,v2](https://csvconf.com/) in Berlin in May, and hosted a hackathon which gave us the chance to give hands-on support to those interested in learning more about the project. We also co-organised a session at [SciDataCon](http://www.scidatacon.org/2016/) in Denver, USA, to share perspectives on barriers to data sharing with the research data community and present work on the project.
 
     [Frictionlessdata.io](http://frictionlessdata.io/) has been launched as a home for the project and includes an extensive set of tutorials and case studies designed to give people access to everything they need to know about the project.
-    
+
     ### OpenSpending
     OpenSpending is a free and open platform for citizens looking to track and analyse public fiscal information globally. In 2016, OKI launched the new [OpenSpending Next](http://next.openspending.org/) website. The new OpenSpending platform was presented at several data events and conferences across Europe we held several calls with different Open Knowledge Network chapters to introduce the new OpenSpending tools.
 
     OKI collaborated with the Global Initiative for Fiscal Transparency (GIFT)  and the World Bank Boost Initiative to develop the Fiscal Data Package,  a specification that enables the publishing and consuming of fiscal data. As a direct result of this collaboration, OKI piloted the Fiscal Data Package with the Federal Finance departments of four different countries (Mexico, Uruguay, Guatemala and Croatia).
 
-    In the last year OpenSpending has strengthened its ties with the fiscal data team at [OKFN DE](https://okfn.de/en/) to work on increasing fiscal transparency in the EU.  This resulted in [subsidystories.eu](http://subsidystories.eu/), a project funded by Adessium. The  goal is to increase transparency in the EU by unravelling how the European Structural Investment Funds are being spent at the local level. 
+    In the last year OpenSpending has strengthened its ties with the fiscal data team at [OKFN DE](https://okfn.de/en/) to work on increasing fiscal transparency in the EU.  This resulted in [subsidystories.eu](http://subsidystories.eu/), a project funded by Adessium. The  goal is to increase transparency in the EU by unravelling how the European Structural Investment Funds are being spent at the local level.
 
     OKI’s involvement in the Horizon 2020 project [OpenBudgets.eu](http://openbudgets.eu/) has lead to several technial and non-technical contributions in an endeavour that involves 9 organisations across Europe.  OpenBudgets.eu will provide an open-source software framework and accompanying SAAS (Software-As-A-Service) platform for supporting financial transparency, thus enhancing accountability within public sectors, and as a result preventing corruption.
-    
+
     ### School of Data
     School of Data has both grown and matured in 2016. It has grown with the addition of 4 new official member organisations from South Africa, Nigeria, Turkey and Latvia. It has launched projects with several new partners (including DataShift, NRGI, Internews). And the School of Data network has seen an increase in activity through our Member Support projects.
 
     School of Data has also matured in the last year with the redesign of the [School of Data](http://schoolofdata.org/) website and an update of its visual identity which highlights better our network, programmes and methodology. The School of Data Fellowship programme has continued to develop in 2016 with [nine esteemed fellows](https://schoolofdata.org/2016/05/07/meet-the-2016-school-of-data-fellows/) from across the world tackling data literacy in different contexts.
 
     Through all this School of Data has kept its commitment to support CSOs and journalists across the world in order to increase their level of data literacy. School of Data has also kept its commitment to advancing knowledge about data literacy, unveiling at IODC 2016 the [Data Literacy Activity Matrix](https://drive.google.com/file/d/0B2o8SyMocor7Z01WUWxUN2NxRjA/view?usp=sharing), which describes the added value of different types of data literacy activities. In early 2016 we finalised our guide to [mobile data collection](https://school-of-data.github.io/mobile-data-collection/sneakpeek.html) produced as part of the 2015 Fellowship. In 2017 we're launching our first official cohort of Data Experts, a programme similar to the Fellowship but which focuses on supporting high potential CSOs to grow their data capacity and deliver concrete data projects.
-    
+
     ### CKAN
     2016 was an exciting year for CKAN, the open-source platform for sharing data. There were many new CKAN-powered portals announced, including high-profile ones like the [European Data Portal](https://www.europeandataportal.eu/), which harvests the metadata of Public Sector Information available on portals across all European countries. But we also saw CKAN being used in more and more different contexts, from [environment data](http://www.envidat.ch/) to [regional hubs](https://www.wprdc.org/). 2016 also saw the release of a new stable version of CKAN, [2.6.0](http://docs.ckan.org/en/latest/changelog.html#v2-6-0-2016-11-02), which included several performance and bug fixes, and also new versions on several popular extensions.
 
@@ -96,7 +96,7 @@ text: |
 
 - section: Introducing Viderum
   text: |
-    In February 2016 we [announced](https://blog.okfn.org/2016/02/15/introducing-viderum/) the spin-off of our commercial services division into its own company: Viderum. Viderum provides services and products for governments, institutions, and local authorities to publish open data. Specifically, they offer low-cost CKAN hosting on a scalable cloud-based infrastructure, CKAN technical support, custom open data website and CKAN extension development, and technical consulting related to open data. 
+    In February 2016 we [announced](https://blog.okfn.org/2016/02/15/introducing-viderum/) the spin-off of our commercial services division into its own company: Viderum. Viderum provides services and products for governments, institutions, and local authorities to publish open data. Specifically, they offer low-cost CKAN hosting on a scalable cloud-based infrastructure, CKAN technical support, custom open data website and CKAN extension development, and technical consulting related to open data.
 
     The spin-off allows Viderum to lend a stronger focus to further development and promotion of these services without distracting from Open Knowledge International’s core mission of empowering civil society organisations to use open data.
 
@@ -110,7 +110,7 @@ text: |
     Open Knowledge International is an active partner in this consortium, focusing on the provision of more open channels of communication between open data publishers and users. For example, the [Social Platform for Open Data](http://spod.routetopa.eu/) is a social media platform that allows for interaction over open data, including project collaboration, data visualizations and topical discussions. The [Transparency Enhancing Toolset](http://vmegov01.deri.ie) is a tool built on CKAN, which provides a central location for data publishers, especially local authorities, to publish datasets in the public interest.
 
     ROUTE-TO-PA is currently working with Open Knowledge Network partners in France, Italy, Ireland and the Netherlands. The team is also working with School of Data to run data expeditions on the ROUTE-TO-PA tools to help build communities on the platforms. We are looking forward to further engagement in 2017 with the Open Knowledge Network and our pilots over the use of these tools and platforms.
-    
+
     ### FIWARE
     The FIWARE Community is an independent open community from across the European Union which aims “to build an open sustainable ecosystem around public, royalty-free and implementation-driven software platform standards that will ease the development of new Smart Applications in multiple sectors”. FIWARE provides a rich set of open standard APIs that make it easier to connect to the Internet of Things and process and analyse Big Data. Over the last two years, Open Knowledge International has partnered with FIWARE to integrate CKAN with the FIWARE platform, enabling users to catalogue, upload and manage open datasets and data sources and allowing Open Knowledge International to continue to develop CKAN into the leading open-source platform for sharing data.
 
@@ -123,7 +123,7 @@ text: |
     ### FutureTDM
     As the use of content mining is significantly lower in Europe than in countries in the Americas and Asia, the FutureTDM project is a consortium which seeks to improve uptake of text and data mining (TDM) in the EU. FutureTDM actively engages with stakeholders such as researchers, developers, publishers and small and medium-sized enterprises to help pinpoint why uptake is lower and to raise awareness of the value of TDM and to develop solutions. Open Knowledge International leads the work on communication, mobilisation and networking, and contributes to the research into best practices and methodologies.
 
-    In 2016 the nine FutureTDM partners organized [Knowledge Cafes](http://www.futuretdm.eu/knowledge-cafes/) across Europe as an informal opportunity to gather feedback on text and data mining from stakeholder groups working in the field. In September the [first of two workshops](http://www.futuretdm.eu/blog/community-events/the-futuretdm-workshop-improving-uptake-of-text-and-data-mining-in-the-eu/) was held to discuss the project’s findings in Brussels where many MEPs and policymakers were present. In addition, a [platform](http://www.futuretdm.eu/) was launched for sharing expert analysis, blogposts, policy recommendations, practitioner guidelines and other useful information. 
+    In 2016 the nine FutureTDM partners organized [Knowledge Cafes](http://www.futuretdm.eu/knowledge-cafes/) across Europe as an informal opportunity to gather feedback on text and data mining from stakeholder groups working in the field. In September the [first of two workshops](http://www.futuretdm.eu/blog/community-events/the-futuretdm-workshop-improving-uptake-of-text-and-data-mining-in-the-eu/) was held to discuss the project’s findings in Brussels where many MEPs and policymakers were present. In addition, a [platform](http://www.futuretdm.eu/) was launched for sharing expert analysis, blogposts, policy recommendations, practitioner guidelines and other useful information.
 
     In 2017 the FutureTDM project will analyse the findings for how to improve the uptake of text and data mining in Europe. The consortium will work together to develop and propose policy recommendations, guidelines, best practices and a roadmap for implementation, all of which will be made available to the general public through the website. The project will organise a final symposium to showcase the project results in the summer of 2017.
 
@@ -137,75 +137,75 @@ text: |
     ### Open Data for Development
     Open Knowledge International is a member of Open Data for Development (OD4D), a global network of leaders in the open data community, working together to develop open data solutions around the world. Open Knowledge International manages the Africa Open Data Collaboration Fund and the OD4D Embedded Fellowship programme.
 
-    The [Africa Open Data Collaboration Fund](http://blog.okfn.org/2016/09/28/africa-open-data-collaboration-fund-building-capacity-for-africas-emerging-data-revolution/) provides monetary and technical support to 6 civil society organisations in Africa working on different applications of Open Data to their work.  The Embedded Fellowship programme places open data experts in various civil society organisations across Africa. In 2016, we partnered with Women Environmental Programme (WEP) in Abuja, Nigeria and with Oxfam in Kenya in Nairobi, Kenya. 
+    The [Africa Open Data Collaboration Fund](http://blog.okfn.org/2016/09/28/africa-open-data-collaboration-fund-building-capacity-for-africas-emerging-data-revolution/) provides monetary and technical support to 6 civil society organisations in Africa working on different applications of Open Data to their work.  The Embedded Fellowship programme places open data experts in various civil society organisations across Africa. In 2016, we partnered with Women Environmental Programme (WEP) in Abuja, Nigeria and with Oxfam in Kenya in Nairobi, Kenya.
 
     Through our work with these partner civil society organisations, Open Knowledge International continues to learn more about what it takes to build open data capacity, how to provide effective support, and how best to demonstrate the value of open data in different civil society contexts.
 
 - section: New team members
-text: |
-    In 2016, the Open Knowledge International team continued to grow. Here are the team members that joined in 2016:
+  text: |
+      In 2016, the Open Knowledge International team continued to grow. Here are the team members that joined in 2016:
 
-people:
+  people:
     - name: Stephen Abbott Pugh
       photo:
     - name: Vitor Baptista
-      photo: 
+      photo:
     - name: Georgiana Bere
-      photo: 
+      photo:
     - name: Anastasia Kalashnikova
       photo:
     - name: Shireen Kovoor
-      photo
+      photo:
     - name: Diana Krebs
-      photo: 
+      photo:
     - name: Ben Meghreblian
-      photo: 
+      photo:
     - name: Oscar Montiel
-      photo: 
+      photo:
     - name: Victor Nitu
-      photo: 
+      photo:
     - name: David Opoku
-      photo: 
+      photo:
     - name: Serah Rono
-      photo: 
+      photo:
     - name: Freyja van den Boom
-      photo: 
+      photo:
     - name: Franka Vaughan
-      photo: 
+      photo:
     - name: Sierra Williams
 
 - section: Network Highlights
-text: |
-        #### Open Knowledge Network
-        In 2016 the Open Knowledge Network has continued to grow and we now have chapters and groups in [over 40 countries](https://okfn.org/network/). We announced new chapters in Japan and Sweden and we started the process of creating a local group in Colombia, as well as affiliated organisations and local groups from Panama, Mexico and Estonia. In an effort to make it easier for our community to interact and thrive, we created a new version of the [Network Guidelines](https://okfn.org/network/network-guidelines/). The guidelines are designed to empower our Network take action to achieve local impact and collaborate further with like-minded communities around the world.
+  text: |
+    #### Open Knowledge Network
+    In 2016 the Open Knowledge Network has continued to grow and we now have chapters and groups in [over 40 countries](https://okfn.org/network/). We announced new chapters in Japan and Sweden and we started the process of creating a local group in Colombia, as well as affiliated organisations and local groups from Panama, Mexico and Estonia. In an effort to make it easier for our community to interact and thrive, we created a new version of the [Network Guidelines](https://okfn.org/network/network-guidelines/). The guidelines are designed to empower our Network take action to achieve local impact and collaborate further with like-minded communities around the world.
 
     During 2017, we are looking to re-focus our Network strategy so that it effectively caters to the needs of the network in a more efficient way. Through this work, we expect to strengthen our existing relationships and to begin to lay the groundwork so the Network is more self-sustaining.
 
-       ### Open Knowledge International Events
-       **Open Data Day**: in 2016 we had our mini-grants scheme with ILDA. We had 60 applications and gave 35 grants. You can see events reports from Open Data Day [on our blog](https://blog.okfn.org/?s=open+data+day+2016). During December 2016 we worked on the Open Data Day website and gave it a makeover. Sign up your event for Open Data Day 2017 at [opendataday.org](http://opendataday.org/)
-       
-       **International Open Data Conference (IODC)**: In October, we hosted the IODC unconference - the Open Exchange for Social Change where people discussed how open data can create change. See the [blog post](https://medium.com/open-heroines/from-unconference-to-conference-lets-keep-the-discussions-going-at-iodc-e16bf9bcaf62#.shodqapq4) about it. Help to shape the [IODC roadmap](http://od4d.com/roadmap) by keeping the [discussions going](https://discuss.okfn.org/c/iodc-unconference) in 2017. 
+    ### Open Knowledge International Events
+    **Open Data Day**: in 2016 we had our mini-grants scheme with ILDA. We had 60 applications and gave 35 grants. You can see events reports from Open Data Day [on our blog](https://blog.okfn.org/?s=open+data+day+2016). During December 2016 we worked on the Open Data Day website and gave it a makeover. Sign up your event for Open Data Day 2017 at [opendataday.org](http://opendataday.org/)
 
-        ### Open Knowledge Labs
-        Open Knowledge Labs exists at the interface between Open Knowledge International and its developer community.  We communicate primarily through our [Open Knowledge Labs](http://okfnlabs.org/blog/) blog, [forums](https://discuss.okfn.org/c/open-knowledge-labs), and [chat rooms](https://gitter.im/okfn/chat).  Historically, the blog has hosted tips and tricks for working with data from across our community.  This past year, we have used the blog as the primary means of distributing new releases, tutorials, and walkthroughs from our Frictionless Data project.
+    **International Open Data Conference (IODC)**: In October, we hosted the IODC unconference - the Open Exchange for Social Change where people discussed how open data can create change. See the [blog post](https://medium.com/open-heroines/from-unconference-to-conference-lets-keep-the-discussions-going-at-iodc-e16bf9bcaf62#.shodqapq4) about it. Help to shape the [IODC roadmap](http://od4d.com/roadmap) by keeping the [discussions going](https://discuss.okfn.org/c/iodc-unconference) in 2017.
+
+    ### Open Knowledge Labs
+    Open Knowledge Labs exists at the interface between Open Knowledge International and its developer community.  We communicate primarily through our [Open Knowledge Labs](http://okfnlabs.org/blog/) blog, [forums](https://discuss.okfn.org/c/open-knowledge-labs), and [chat rooms](https://gitter.im/okfn/chat).  Historically, the blog has hosted tips and tricks for working with data from across our community.  This past year, we have used the blog as the primary means of distributing new releases, tutorials, and walkthroughs from our Frictionless Data project.
 
     We host monthly online “hangouts” which give participants the opportunity to ask questions, present their own open data projects, and build a sense of community.  Over the course of 2016, 10 hangouts were held.  The following events were particular highlights from the last year:
- 
-         - The [August 2016](https://discuss.okfn.org/t/labs-hangout-august-2016/3372) Hangout featured Waylon Flinn, the developer of Dataship, a tool for sharing data analysis.  He spoke about his tool and received feedback from the community. 
-         - The [October 2016](https://discuss.okfn.org/t/labs-hangout-openspending-october-25-2016/3732) Hangout featured members of the OpenSpending team and provided participants with an overview of progress to date and future plans
-         - In [December 2016](https://discuss.okfn.org/t/labs-hangout-december-2016/4189), we featured a Frictionless Data pilot partner, Samuel Payne of the Pacific Northwest National Laboratory.  He talked about his tool for doing collaborative biological data analysis backed by GitHub
+
+    - The [August 2016](https://discuss.okfn.org/t/labs-hangout-august-2016/3372) Hangout featured Waylon Flinn, the developer of Dataship, a tool for sharing data analysis.  He spoke about his tool and received feedback from the community.
+    - The [October 2016](https://discuss.okfn.org/t/labs-hangout-openspending-october-25-2016/3732) Hangout featured members of the OpenSpending team and provided participants with an overview of progress to date and future plans
+    - In [December 2016](https://discuss.okfn.org/t/labs-hangout-december-2016/4189), we featured a Frictionless Data pilot partner, Samuel Payne of the Pacific Northwest National Laboratory.  He talked about his tool for doing collaborative biological data analysis backed by GitHub
 
 - section: Research Highlights
-text: |
+  text: |
     As more and more citizens and NGOs look to incorporate data-driven practices, a number of exciting opportunities and partnerships are opening up for the open data environment. Our research in the last year underlines the importance of these developments. Here is a brief overview of our research activity from 2016:
 
     - [Briefing Paper: Infrastructures for Open Scholarly Communication](https://blog.okfn.org/2016/07/15/open-access-why-do-scholarly-communication-platforms-matter-and-what-is-the-true-cost-of-gold-oa/)
     - [Changing What Counts: How Can Citizen-Generated and Civil Society Data Be Used as an Advocacy Tool to Change Official Data Collection?](https://blog.okfn.org/2016/03/03/changing-what-counts/)
     - Three-part research series on Citizen-Generated Data, in collaboration with the CIVICUS initiative DataShift:
-        - [“Making citizen-generated data work”](http://civicus.org/thedatashift/wp-content/uploads/2015/07/Making-citizen-generated-data-work.pdf)
-        - [“From Evidence to Action”](http://civicus.org/thedatashift/wp-content/uploads/2015/07/from-evidence-to-action.pdf)
-        - [“Acting locally, Monitoring globally”](http://civicus.org/thedatashift/wp-content/uploads/2015/07/Acting-locally-monitoring-globally_Full-Report.pdf)
-    - Research on the [impact of opening data in cities](http://blog.okfn.org/2017/02/09/data-and-the-city-new-report-on-how-public-data-is-fostering-civic-engagement-in-urban-regions/) and how to make make public data infrastructures more attuned to civil society 
+    - [“Making citizen-generated data work”](http://civicus.org/thedatashift/wp-content/uploads/2015/07/Making-citizen-generated-data-work.pdf)
+    - [“From Evidence to Action”](http://civicus.org/thedatashift/wp-content/uploads/2015/07/from-evidence-to-action.pdf)
+    - [“Acting locally, Monitoring globally”](http://civicus.org/thedatashift/wp-content/uploads/2015/07/Acting-locally-monitoring-globally_Full-Report.pdf)
+    - Research on the [impact of opening data in cities](http://blog.okfn.org/2017/02/09/data-and-the-city-new-report-on-how-public-data-is-fostering-civic-engagement-in-urban-regions/) and how to make make public data infrastructures more attuned to civil society
     - How to measure [sustainable development from the bottom-up](https://blog.okfn.org/2017/01/18/10-critical-insights-for-democratising-the-data-revolution/)
     - Controversy mapping and stakeholder mappings for [OpenBudgets.eu](https://docs.google.com/presentation/d/1TNunDgWDUmN-aD_wScxahXPwTZmYAdgKwgiNp-oObUM/edit#slide=id.p) and [Opentrials](https://docs.google.com/presentation/d/1g3zYd89X0YLK4DJMdlFvaAyVjLh4xTowEtygk0TJmoc/edit#slide=id.p)
     - IODC Session: [How to advance open data research: Towards an understanding of demand, users, and key data](http://opendatacon.org/how-to-advance-open-data-research-towards-an-understanding-of-demand-users-and-key-data/)
@@ -214,41 +214,42 @@ text: |
     In 2017 we look forward to expanding our portfolio of research around different use cases of open data, types of organisations using open data and contextual/environmental factors enabling effective use of open data.
 
 - section: Multimedia
-    - https://www.youtube.com/watch?v=_fBcaAUqv0g 
-    - https://www.youtube.com/watch?v=8RxULD-8Gwg 
-    - https://blogs.biomedcentral.com/on-medicine/2016/04/14/opentrials-what-why-and-how/ 
-    - https://www.youtube.com/channel/UC4ebz-UMCvznjPIMvF1QV1A 
-    - https://www.youtube.com/watch?v=PFe3Gv_-1wY 
+  text: |
+    - https://www.youtube.com/watch?v=_fBcaAUqv0g
+    - https://www.youtube.com/watch?v=8RxULD-8Gwg
+    - https://blogs.biomedcentral.com/on-medicine/2016/04/14/opentrials-what-why-and-how/
+    - https://www.youtube.com/channel/UC4ebz-UMCvznjPIMvF1QV1A
+    - https://www.youtube.com/watch?v=PFe3Gv_-1wY
     - http://www.futuretdm.eu/knowledge-library/
     - https://www.youtube.com/watch?v=R__wn7xmbVU
     - https://www.youtube.com/watch?v=BPYRAV7m6h4
-    - http://www.weshift.tv/admin_videos/rufus-pollock-full/?lang=en  
-    - https://www.youtube.com/watch?v=sDBGm746dQE 
-    
+    - http://www.weshift.tv/admin_videos/rufus-pollock-full/?lang=en
+    - https://www.youtube.com/watch?v=sDBGm746dQE
+
 - section: Looking ahead to 2017
-text: |
+  text: |
     ### Our Mission
 
     **To Empower Civil Society Organisations to use Open Data to improve people's lives**
 
     Having access to data is a vital step for social progress. But open data is only valuable insofar as the data is actually relevant and useful. In the next phase of our work, Open Knowledge International will go beyond opening up data in order to focus on realizing data’s value to society. Put in one phrase, Open Knowledge International will empower Civil Society Organisations to use Open Data to improve people's lives. You will hear more from us in the coming months on our strategic priorities and how we are developing partnerships with organisations to fulfill our mission.
-    
+
     ### Future directions for 2017
     A number of new strategic development are underway as we look to lay the groundwork for fully incorporating our mission into all of our activities. We will be 1.) looking to demonstrate the value of open data for civil society; 2.) we will be providing organisations with the tools and skills to use open data; and, 3.) we will be working to facilitate productive dialogue between governments and civil society over the provision of useful data.
 
     One primary issue we will be tackling at Open Knowledge International over the next year is the quality of open data currently published. Rather than focusing on the proliferation of available datasets on the web, we will be investigating further into data standards for different types of data to ensure the usefulness of published data continues to grow.
 
-    Open data is already being used in many different contexts to improve people’s lives and we will continue to communicate how. With public trust in institutions facing a [serious decline](http://www.edelman.com/trust2017/), 2017 is the ideal time for the open data community to work with civil society leaders and demonstrate how information can be used to drive change and build trust across divisions in society. 
+    Open data is already being used in many different contexts to improve people’s lives and we will continue to communicate how. With public trust in institutions facing a [serious decline](http://www.edelman.com/trust2017/), 2017 is the ideal time for the open data community to work with civil society leaders and demonstrate how information can be used to drive change and build trust across divisions in society.
 
     We will be engaging further with users and potential users of data in 2017 to facilitate dialogue with governments and other data publishers to ensure the information they are providing is the information citizens require. We look forward to the results of the Global Open Data Index in the coming months on which areas require pressing attention and we will be looking to develop new collaborations with NGOs and data experts around the world to address local, national, and transnational issues.
 
     Also, be sure to keep your eyes out for news about the next Open Knowledge Festival (OKFest) - a chance to bring together the community and discuss all the intersections of our work. In 2014, over 1000 people from 60 countries came together to discuss, share, think, and collaborate over how to translate Open Minds to Open Action. We’ll be looking to build on this format and create a great community event for all!
-    
+
 - section: How to get involved
-text: |
+  text: |
     - Over 2,200 people are members of the Open Knowledge Discuss Forum - join the [discussion here](https://discuss.okfn.org/)!
     - Looking to get hacking? Open Knowledge Labs is a community of civic hackers, data wranglers and ordinary citizens making tools and insights using open data, open content and open code. [Join in](http://okfnlabs.org/)!
 
-    Our community is what keeps us motivated! We want to keep you informed of what we’re working and hear what you’ve been up to. Check out the [Discourse Forum](https://discuss.okfn.org/) for more. 
+    Our community is what keeps us motivated! We want to keep you informed of what we’re working and hear what you’ve been up to. Check out the [Discourse Forum](https://discuss.okfn.org/) for more.
 
-    We’d love to hear from you on our social media channels, including our [Facebook](https://www.facebook.com/OKFNetwork/) and [Twitter](https://twitter.com/OKFN). 
+    We’d love to hear from you on our social media channels, including our [Facebook](https://www.facebook.com/OKFNetwork/) and [Twitter](https://twitter.com/OKFN).
