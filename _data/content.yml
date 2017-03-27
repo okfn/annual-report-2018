@@ -21,32 +21,6 @@
     For: The Open Knowledge International Team
 
 - section: Highlights from our projects
-  subsections:
-    - title: Open Knowledge International projects
-      logos:
-        - name: Global Open Data Index
-          image: img/index.png
-          url: http://index.okfn.org/
-
-        - name: OpenTrials
-          image: img/opentrials.png
-          url: http://opentrials.net/
-
-        - name: Frictionless Data
-          image: img/frictionlessdata.png
-          url: http://frictionlessdata.io/
-
-        - name: Open Spending
-          image: img/openspending.png
-          url: https://openspending.org/
-
-        - name: CKAN
-          image: img/ckan.png
-          url: http://ckan.org/
-
-        - name: School of Data
-          image: img/schoolofdata.png
-          url: http://schoolofdata.org/
   text: |
     ### Global Open Data Index
     The Global Open Data Index (GODI) measures and benchmarks the openness of government data around the world, and presents  this information in a way that is easy for citizens to understand and use. In 2016 we gave the GODI a [methodological makeover](https://blog.okfn.org/2016/06/15/introducing-the-new-proposed-global-open-data-index-survey/). We adapted the survey questions to reflect the vital need for more useful data by introducing essential data characteristics upon which specific datasets are evaluated. We also added qualitative fields to understand better the population of our submitters and the data they require. These steps will ensure the GODI is a more comprehensive civil society audit and a useful tool to encourage dialogue between data publishers and civil society.
