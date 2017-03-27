@@ -1,8 +1,8 @@
 # Site settings
 title: |
-  Open Knowledge International 
+  Open Knowledge International
   Annual Report
-description: Looking back on 2015
+description: Looking back on 2016
 
 # Build settings
 markdown: kramdown
