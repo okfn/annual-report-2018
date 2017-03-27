@@ -167,34 +167,36 @@
   text: |
       In 2016, the Open Knowledge International team continued to grow. Here are the team members that joined in 2016:
 
-  people:
-    - name: Stephen Abbott Pugh
-      photo:
-    - name: Vitor Baptista
-      photo:
-    - name: Georgiana Bere
-      photo:
-    - name: Anastasia Kalashnikova
-      photo:
-    - name: Shireen Kovoor
-      photo:
-    - name: Diana Krebs
-      photo:
-    - name: Ben Meghreblian
-      photo:
-    - name: Oscar Montiel
-      photo:
-    - name: Victor Nitu
-      photo:
-    - name: David Opoku
-      photo:
-    - name: Serah Rono
-      photo:
-    - name: Freyja van den Boom
-      photo:
-    - name: Franka Vaughan
-      photo:
-    - name: Sierra Williams
+  subsections:
+  - title: 
+    people:
+      - name: Stephen Abbott Pugh
+        photo:
+      - name: Vitor Baptista
+        photo:
+      - name: Georgiana Bere
+        photo:
+      - name: Anastasia Kalashnikova
+        photo:
+      - name: Shireen Kovoor
+        photo:
+      - name: Diana Krebs
+        photo:
+      - name: Ben Meghreblian
+        photo:
+      - name: Oscar Montiel
+        photo:
+      - name: Victor Nitu
+        photo:
+      - name: David Opoku
+        photo:
+      - name: Serah Rono
+        photo:
+      - name: Freyja van den Boom
+        photo:
+      - name: Franka Vaughan
+        photo:
+      - name: Sierra Williams
 
 - section: Network Highlights
   text: |
