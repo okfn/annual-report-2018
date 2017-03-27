@@ -246,16 +246,50 @@
 
 - section: Multimedia
   text: |
-    - [*OpenTrials beta walkthrough* video](https://www.youtube.com/watch?v=_fBcaAUqv0g)
-    - [*OpenTrials Walkthrough* video](https://www.youtube.com/watch?v=8RxULD-8Gwg)
-    - [*OpenTrials: what, why and how?* blog post](https://blogs.biomedcentral.com/on-medicine/2016/04/14/opentrials-what-why-and-how/)
-    - [*FutureTDM* YouTube channel](https://www.youtube.com/channel/UC4ebz-UMCvznjPIMvF1QV1A)
-    - [*CKAN demo* video](https://www.youtube.com/watch?v=PFe3Gv_-1wY)
-    - [*FutureTDM Knowledge Library*](http://www.futuretdm.eu/knowledge-library/)
-    - [Virtual Briefing video on *Country by Country Reporting*](https://www.youtube.com/watch?v=R__wn7xmbVU)
-    - [Dan Fowler and Rufus Pollock: *Frictionless Data* video](https://www.youtube.com/watch?v=BPYRAV7m6h4)
-    - [*Rufus Pollock* video](http://www.weshift.tv/admin_videos/rufus-pollock-full/?lang=en)
-    - [*How about ROUTE-TO-PA?* video](https://www.youtube.com/watch?v=sDBGm746dQE)
+
+  subsections:
+  - title:
+    media:
+      - label: OpenTrials beta walkthrough
+        image: http://img.youtube.com/vi/_fBcaAUqv0g/0.jpg
+        url: https://www.youtube.com/watch?v=_fBcaAUqv0g
+        type: video
+      - label: OpenTrials Walkthrough
+        image: http://img.youtube.com/vi/8RxULD-8Gwg/0.jpg
+        url: https://www.youtube.com/watch?v=8RxULD-8Gwg
+        type: video
+      - label: "OpenTrials: what, why and how?"
+        image: http://blogs.biomedcentral.com/on-medicine/wp-content/uploads/sites/6/2016/04/7822101134_6cbcbb435b_o.jpg
+        url: https://blogs.biomedcentral.com/on-medicine/2016/04/14/opentrials-what-why-and-how/
+        type: post
+      - label: FutureTDM YouTube channel
+        image: http://img.youtube.com/vi/ueiD6Wl_El0/0.jpg
+        url: https://www.youtube.com/channel/UC4ebz-UMCvznjPIMvF1QV1A
+        type: video
+      - label: CKAN demo
+        image: http://img.youtube.com/vi/PFe3Gv_-1wY/0.jpg
+        url: https://www.youtube.com/watch?v=PFe3Gv_-1wY
+        type: video
+      - label: FutureTDM Knowledge Library
+        image: http://www.futuretdm.eu/wp-content/uploads/Workshop-II-Poster-FutureTDM.png
+        url: http://www.futuretdm.eu/knowledge-library/
+        type: pdf
+      - label: Virtual Briefing on Country by Country Reporting
+        image: http://img.youtube.com/vi/R__wn7xmbVU/0.jpg
+        url: https://www.youtube.com/watch?v=R__wn7xmbVU
+        type: video
+      - label: "Dan Fowler and Rufus Pollock: Frictionless Data"
+        image: http://img.youtube.com/vi/BPYRAV7m6h4/0.jpg
+        url: https://www.youtube.com/watch?v=BPYRAV7m6h4
+        type: video
+      - label: Rufus Pollock
+        image: img/rufus-video.jpg
+        url: http://www.weshift.tv/admin_videos/rufus-pollock-full/?lang=en
+        type: video
+      - label: How about ROUTE-TO-PA?
+        image: http://img.youtube.com/vi/sDBGm746dQE/0.jpg
+        url: https://www.youtube.com/watch?v=sDBGm746dQE
+        type: video
 
 - section: Looking ahead to 2017
   text: |

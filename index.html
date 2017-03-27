@@ -52,6 +52,17 @@ layout: default
             </li>
             {% endfor %}
           </ul>
+          {% elsif sub.media %}
+          <ul class="media">
+            {% for m in sub.media %}
+            <li{% if m.type == 'video' %} class="video"{% elsif m.type == 'pdf' %} class="pdf"{% endif %}>
+              <a{% if m.url %} href="{{ m.url  }}"{% endif %} style="background-image: url({{ m.image }});" target="_blank">
+                {{ m.label }}
+              </a>
+              <span class="label">{{ m.label }}</span>
+            </li>
+            {% endfor %}
+          </ul>
           {% elsif sub.text %}
           {{ sub.text | markdownify }}
           {% endif %}

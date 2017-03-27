@@ -120,7 +120,8 @@ html.mm-opened {
 }
 
 .people,
-.logos {
+.logos,
+.media {
   font-size: 0.9em;
   margin: 0 -1em;
   @include clearfix;
@@ -189,30 +190,40 @@ html.mm-opened {
   }
 }
 
-.logos {
+.logos,
+.media {
   line-height: 1.1;
   padding: 0.5em;
   background-color: $light-grey;
+  font-size: 0.8em;
 
   li {
     display: block;
     padding: 0.5em;
     box-sizing: border-box;
-    text-align: center;
 
     a {
       display: block;
       background-color: #fff;
       height: 0;
-      padding-top: 50%;
+      padding-top: 56.25%;
       overflow: hidden;
       background-position: center center;
       background-repeat: no-repeat;
-      background-size: contain;
-      border: solid 20px #fff;
+      background-size: cover;
+      border-radius: 2px;
+      border: solid 5px #fff;
     }
 
-    @media (min-width: $medium-screen) and (max-width: $large-screen) {
+    .label {
+      background-color: #fff;
+      display: block;
+      margin-top: -5px;
+      padding: 8px 5px;
+      border-radius: 0 0 2px 2px;
+    }
+
+    @media (min-width: $medium-screen) {
       width: 50%;
       float: left;
 
@@ -220,13 +231,78 @@ html.mm-opened {
         clear: left;
       }
     }
+  }
+}
 
+.logos {
+  font-size: 0.9em;
+  li {
+    text-align: center;
+    a {
+      padding-top: 50%;
+      background-size: contain;
+      border-width: 20px;
+    }
     @media (min-width: $large-screen) {
       width: 33.3%;
-      float: left;
+
+      &:nth-child(2n+3) {
+        clear: none;
+      }
 
       &:nth-child(3n+4) {
         clear: left;
+      }
+    }
+  }
+}
+
+.media {
+  li {
+    a {
+      position: relative;
+
+      &:after {
+        @include icon-font();
+        content: "\ea7d";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        background-color: rgba($dark-grey,0.5);
+        width: 64px;
+        height: 64px;
+        border-radius: 50%;
+        margin-top: -32px;
+        margin-left: -32px;
+        text-align: center;
+        line-height: 64px;
+        font-size: 38px;
+        color: #fff;
+        text-indent: 6px;
+      }
+
+      &:hover {
+        &:after {
+          background-color: $dark-grey;
+        }
+      }
+    }
+
+    &.video {
+      a {
+        &:after {
+          content: "\e915";
+          text-indent: 5px;
+        }
+      }
+    }
+
+    &.pdf {
+      a {
+        &:after {
+          content: "\eadf";
+          text-indent: 1px;
+        }
       }
     }
   }
