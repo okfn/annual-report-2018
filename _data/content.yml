@@ -31,12 +31,14 @@
 
     We have been experimenting with a new schedule of submitting to the Index, starting in November and finishing in January. With over 90 countries already submitted, we are now in the process of the review phase. **Mark your calendars! We are aiming to publish the Index results on May 2nd, 2017**.
 
-    ### OpenTrials
-    OpenTrials is a collaboration between Open Knowledge International and Dr Ben Goldacre from the University of Oxford DataLab. It aims to locate, match, and share all publicly accessible data and documents, on all trials conducted, on all medicines and other treatments, globally. OpenTrials [launched in beta](http://opentrials.net/2016/10/10/opentrials-launches-beta-version-today-at-the-world-health-summit/) at the World Health Summit in October 2016. Anyone can now visit [OpenTrials.net](http://opentrials.net/) to find out more or go to [explorer.opentrials.net](https://explorer.opentrials.net/) to test out the OpenTrials search tools and API.
+    ### Open Trials
+    Open Trials is a collaboration between Open Knowledge International and Dr Ben Goldacre from the University of Oxford's Evidence-Based Medicine Data Lab. It aims to locate, match, and share all publicly accessible data and documents, on all trials conducted, on all medicines and other treatments, globally. Open Trials [launched in beta](http://opentrials.net/2016/10/10/opentrials-launches-beta-version-today-at-the-world-health-summit/) at the World Health Summit in October 2016. Anyone can now visit [OpenTrials.net](http://opentrials.net/) to find out more or go to [explorer.opentrials.net](https://explorer.opentrials.net/) to test out the Open Trials search tools and API.
 
     ![open trials-screen](img/opentrials-screen.png)
 
+
     The OpenTrials team also built the [OpenTrials FDA](https://fda.opentrials.net/search) prototype - created in partnership with Dr Erick Turner of Oregon Health and Science University. 'OpenTrials FDA was one of three finalists competing for the 2017 Open Science Prize. More details on the Open Science Prize can be found on our [blog](https://opentrials.net/opentrialsfda/)'
+
 
     ### Frictionless Data
     [Frictionless Data](http://frictionlessdata.io/) is about removing the friction in working with data and is a technical approach based on the Data Package standard— a containerization format built around existing practices for publishing open-source software. 2016 was the first year of a two-year grant from the [Sloan Foundation](https://sloan.org/) to explore the use of Data Packages in research.
@@ -49,7 +51,7 @@
 
     ![frictionless-data-photos](img/frictionless-data-photos.jpg)
 
-    ### OpenSpending
+    ### Open Spending
     OpenSpending is a free and open platform for citizens looking to track and analyse public fiscal information globally. In 2016, OKI launched the new [OpenSpending Next](http://next.openspending.org/) website. The new OpenSpending platform was presented at several data events and conferences across Europe we held several calls with different Open Knowledge Network chapters to introduce the new OpenSpending tools.
 
     OKI collaborated with the Global Initiative for Fiscal Transparency (GIFT)  and the World Bank Boost Initiative to develop the Fiscal Data Package,  a specification that enables the publishing and consuming of fiscal data. As a direct result of this collaboration, OKI piloted the Fiscal Data Package with the Federal Finance departments of four different countries (Mexico, Uruguay, Guatemala and Croatia).
@@ -110,7 +112,7 @@
     ### D-CENT
     Open Knowledge International was one of nine partners in the multidisciplinary EU-funded project on Decentralised Citizens ENgagement Technologies ([D-CENT](https://dcentproject.eu/)). The project ran large-scale democracy pilots in Spain, Iceland, and Finland, leveraging existing network movements with an engaged user-base of tens of thousands of people. We specifically worked with our Finnish chapter, [Open Knowledge Finland](https://fi.okfn.org/), who created a decentralised social networking platform for large-scale collaboration and decision-making in Helsinki, together with citizens and developers. The project ended in May 2016 with the successful [Democratic Cities event](https://dcentproject.eu/from-post-capitalism-to-collective-intelligence/) in Madrid, where over 500 participants gathered to discuss and listen to speakers ranging from Manuela Carmena, mayor of Madrid, to Paul Mason and Julian Assange.
 
-    ### FutureTDM
+    ### Future TDM
     As the use of content mining is significantly lower in Europe than in countries in the Americas and Asia, the FutureTDM project is a consortium which seeks to improve uptake of text and data mining (TDM) in the EU. FutureTDM actively engages with stakeholders such as researchers, developers, publishers and small and medium-sized enterprises to help pinpoint why uptake is lower and to raise awareness of the value of TDM and to develop solutions. Open Knowledge International leads the work on communication, mobilisation and networking, and contributes to the research into best practices and methodologies.
 
     ![futuretdm-screenshot](img/futuretdm-screenshot.png)
