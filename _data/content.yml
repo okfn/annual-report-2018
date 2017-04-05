@@ -6,7 +6,7 @@
 
     Today, citizens have access to more data from their governments than ever before. The open data community has made great strides in improving the availability and accessibility of datasets. But as the [Global Open Data Index](http://2015.index.okfn.org/) has shown, there is still much more work to be done to encourage governments to provide this information.
 
-    We also know that quantity is not enough -  open data is only valuable insofar as it is useful and relevant to the concerns of citizens. We worked steadfastly in 2016 to build tools and capacity to help individuals and organisations access the data they need. The milestones we’ve achieved this year with [School of Data](https://schoolofdata.org/), [Open Trials](http://opentrials.net/) and the [Africa Open Data Collaboration Fund](http://blog.okfn.org/2016/09/28/africa-open-data-collaboration-fund-building-capacity-for-africas-emerging-data-revolution/), to name just a few, have been excellent examples of our commitment to improving the role of data in society.
+    We also know that quantity is not enough -  open data is only valuable insofar as it is useful and relevant to the concerns of citizens. We worked steadfastly in 2016 to build tools and capacity to help individuals and organisations access the data they need. The milestones we’ve achieved this year with [School of Data](https://schoolofdata.org/), [OpenTrials](http://opentrials.net/) and the [Africa Open Data Collaboration Fund](http://blog.okfn.org/2016/09/28/africa-open-data-collaboration-fund-building-capacity-for-africas-emerging-data-revolution/), to name just a few, have been excellent examples of our commitment to improving the role of data in society.
 
     In 2016 we began to focus more of our efforts on improving the quality of data. We are proud of the achievements of our OpenSpending team and their work with governments to standardise fiscal data. On September 8, 2016, Mexico became the first country to formally adopt the [Open Fiscal Data Package](https://blog.okfn.org/2016/09/09/openspending-collaborates-with-mexicos-ministry-of-finance-to-standardise-and-visualise-government-budget-data/), an international open data standard we collaborated to create (and built with cross-team support from our forward-thinking [Frictionless Data](http://frictionlessdata.io/) project).
 
@@ -31,13 +31,13 @@
 
     We have been experimenting with a new schedule of submitting to the Index, starting in November and finishing in January. With over 90 countries already submitted, we are now in the process of the review phase. **Mark your calendars! We are aiming to publish the Index results on May 2nd, 2017**.
 
-    ### Open Trials
-    Open Trials is a collaboration between Open Knowledge International and Dr Ben Goldacre from the University of Oxford's Evidence-Based Medicine Data Lab. It aims to locate, match, and share all publicly accessible data and documents, on all trials conducted, on all medicines and other treatments, globally. Open Trials [launched in beta](http://opentrials.net/2016/10/10/opentrials-launches-beta-version-today-at-the-world-health-summit/) at the World Health Summit in October 2016. Anyone can now visit [OpenTrials.net](http://opentrials.net/) to find out more or go to [explorer.opentrials.net](https://explorer.opentrials.net/) to test out the Open Trials search tools and API.
+    ### OpenTrials
+    OpenTrials is a collaboration between Open Knowledge International and Dr Ben Goldacre from the University of Oxford's Evidence-Based Medicine Data Lab. It aims to locate, match, and share all publicly accessible data and documents, on all trials conducted, on all medicines and other treatments, globally. OpenTrials [launched in beta](http://opentrials.net/2016/10/10/opentrials-launches-beta-version-today-at-the-world-health-summit/) at the World Health Summit in October 2016. Anyone can now visit [OpenTrials.net](http://opentrials.net/) to find out more or go to [explorer.opentrials.net](https://explorer.opentrials.net/) to test out the OpenTrials search tools and API.
 
-    ![open trials-screen](img/opentrials-screen.png)
+    ![opentrials-screen](img/opentrials-screen.png)
 
 
-    The Open Trials team also built the [Open Trials FDA](https://fda.opentrials.net/search) prototype - created in partnership with Dr Erick Turner of Oregon Health and Science University. 'Open Trials FDA was one of three finalists competing for the 2017 Open Science Prize. More details on the Open Science Prize can be found on our [blog](https://opentrials.net/opentrialsfda/)'
+    The OpenTrials team also built the [OpenTrials FDA](https://fda.opentrials.net/search) prototype - created in partnership with Dr Erick Turner of Oregon Health and Science University. 'OpenTrials FDA was one of three finalists competing for the 2017 Open Science Prize. More details on the Open Science Prize can be found on our [blog](https://opentrials.net/opentrialsfda/)'
 
 
     ### Frictionless Data
