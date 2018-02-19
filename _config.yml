@@ -9,3 +9,6 @@ markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
+
+# Google Analytics (uncomment below to enable)
+# analytics: UA-48180810-3
