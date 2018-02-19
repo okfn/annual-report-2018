@@ -97,6 +97,19 @@ html.mm-opened {
     padding-top: 2.5em;
     padding-bottom: 2.5em;
 
+    .logo {
+      display: block;
+      width: 6em;
+      background-color: #fff;
+      margin-top: -2.5em;
+      margin-bottom: 2em;
+      padding: 1em;
+
+      svg {
+        fill: darken($green, 5%);
+      }
+    }
+
     h1 {
       margin-bottom: 0.1em;
     }
