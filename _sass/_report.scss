@@ -12,6 +12,13 @@ a.mm-slideout {
   overflow: hidden;
   border-radius: 2px;
 
+  &,
+  &:hover,
+  &:active,
+  &:focus {
+    outline: 0;
+  }
+
   & > span {
     margin-top: -2px;
     top: 50%;
