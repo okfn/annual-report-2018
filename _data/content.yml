@@ -9,7 +9,7 @@
 - section: Highlights from our projects
   text: |
     ### Frictionless Data
-    [Frictionless Data](http://frictionlessdata.io/) is a collection of lightweight specifications and tooling for effortless collection, sharing, and validation of data. After close to 10 years of iterative work on the specifications themselves, and over a year of fine-tuning v1.0 release candidates, we were delighted this year to announce the release of the [Frictionless Data specifications](http://specs.frictionlessdata.io/), including [Table Schema](http://specs.frictionlessdata.io/table-schema/) and [Data Package](http://specs.frictionlessdata.io/data-package/).  Though our Tool Fund we have been able to support the community building on this work to build a [robust set of pre-built tooling](https://github.com/frictionlessdata) in Python, R, Javascript, Java, PHP, clojure, SPSS and Go.
+    [Frictionless Data](http://frictionlessdata.io/) is a collection of lightweight specifications and tooling for effortless collection, sharing, and validation of data. After close to 10 years of iterative work on the specifications themselves, and over a year of fine-tuning v1.0 release candidates, we were delighted this year to announce the release of the [Frictionless Data specifications](http://specs.frictionlessdata.io/), including [Table Schema](http://specs.frictionlessdata.io/table-schema/) and [Data Package](http://specs.frictionlessdata.io/data-package/).  Through our [Tool Fund](https://toolfund.frictionlessdata.io/) we have been able to support the community building on this work to build a [robust set of pre-built tooling](https://github.com/frictionlessdata) in Python, R, Javascript, Java, PHP, clojure, SPSS and Go.
 
     ![Frictionless Data](img/fd-logo.png)
 
