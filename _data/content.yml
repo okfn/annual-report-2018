@@ -39,7 +39,6 @@
     Most of the lessons and the discussions during the process of making GODI happen are registered in the Open Knowledge Forum under the [Open Data Index 2016 topic](https://discuss.okfn.org/c/open-data-index/global-open-data-index-2016).
     As a final step, we have decided to [re-evaluate](https://blog.okfn.org/2017/11/01/the-future-of-the-global-open-data-index-assessing-the-possibilities/), along with the community, what is the best way to continue with the research around government open data publication.
 
-
     ### Open Spending
     [OpenSpending](https://openspending.org/) is a project to unlock public fiscal data by making it easy to upload budget data and visualise it. OpenSpending is a free, open and global platform to search, visualise and analyse fiscal data in the public sphere. In that regard, we are working closely with governments and civil society organisations to increase fiscal transparency around the globe.
     
@@ -57,7 +56,6 @@
     
     **Adessium**
     With the support of the Adessium fund and in collaboration with Open Knowledge Germany, we launched [subsidystories.eu](http://subsidystories.eu/), a platform that offers EU subsidy data. The platform intends to increase transparency of EU funds by unravelling how the European Structural Investment Funds are spent. Open Knowledge Germany followed up on this project by creating [storyhunt.de](http://openbudgets.eu/post/2017/07/07/storyhunt-workshops/), a series of workshops to support open data advocates and journalists to work with fiscal EU data.
-
 
     ### OpenTrials
     [OpenTrials](https://opentrials.net/) is a collaboration between Open Knowledge International and Dr Ben Goldacre from the University of Oxford’s Evidence-Based Medicine Data Lab. It aims to locate, match, and share all publicly accessible data and documents, on all trials conducted, on all medicines and other treatments, globally. Following the [beta launch](http://opentrials.net/2016/10/10/opentrials-launches-beta-version-today-at-the-world-health-summit/) at the end of 2016, OpenTrials finished Phase 1 funding in the spring of 2017 – this means that the team is having a break, with the project on hold until we secure Phase 2 funding. The OpenTrials search tools and API can be tested through [explorer.opentrials.net](http://explorer.opentrials.net): a summary of what we’ve built, events we’ve been involved in, some challenges and successes of the project so far and details on how to get involved can be found on [the OpenTrials blog](https://opentrials.net/2017/04/26/end-of-opentrials-phase-1/).
@@ -91,7 +89,6 @@
     Processes around the release of a new CKAN version
     Handling and patching of reported vulnerabilities by the community
 
-
 - section: Highlights from our collaborations
   text: |
     ### Route-to-PA
@@ -118,12 +115,10 @@
 
    Building from successful embedded fellows in 2016, we partnered with CENOZO in West Africa and the PPDC in Nigeria to support two embedded fellowships. Over the course of the programme, PPDC trainers ran [9 data training sessions](https://drive.google.com/drive/u/1/folders/0B9vzxIvZeBaFdzFLWldMWGo0X1k) to teach the skills identified and needed by the ICIR journalists. The journal PPDC trainers also produced a [session journal](https://docs.google.com/document/d/1IlnHQP3fXDTdCZb3jjQq7h5bBBLopW9F0fwKTsem8Ac/edit) detailing what was achieved in each of these training sessions. In addition, PPDC and ICIR are working on the [beginnings of a data strategy](https://docs.google.com/document/d/1qVct2uxilvETBg2Ia4yKJR_H5qkqKB8C0qP_id6aNvE/edit), which will be developed over the next few months and is designed to ensure that ICIR continues to build their capacity to use data effectively. In Burkina Faso (fellow based in Ghana), our fellow worked with the host organisation, CENOZO, to develop resources and train regional investigative journalists on reporting on beneficial ownership.
 
-
-
 - section: New team members
   text: |
       In 2017, the Open Knowledge International team continued to grow. Here are the team members that joined this year:
-
+      
   subsections:
   - title:
     people:
@@ -139,7 +134,6 @@
     #### Open Knowledge Network
     [The Open Knowledge Network](https://okfn.org/network/) further developed in 2017. We welcomed [Nepal](http://oknp.org) as a new chapter and sadly said goodbye to Spain, who disbanded their organisation. There are now 11 formal Open Knowledge Chapters part of the network, and in additional we have national groups in 19 other countries. There are 5 affiliate organisations part of the network, who do not use the name Open Knowledge but subscribe to the same values and principles. 
 We also launched new [project participation guidelines](https://blog.okfn.org/2017/08/21/fostering-open-inclusive-and-respectful-participation/), which spells out our expectations when taking part in our activities. These are aiming to help us move towards developing more inclusive and diverse communities, where everyone who wants to participate respectfully feels welcomed to do so.
-  
 
     ### Open Knowledge Labs
     [Open Knowledge Labs](http://okfnlabs.org/) exists at the interface between Open Knowledge International and its developer community. We communicate primarily through our Open Knowledge Labs blog, forums, and chat rooms. Historically, the blog has hosted tips and tricks for working with data from across our community.
@@ -156,7 +150,6 @@ We also launched new [project participation guidelines](https://blog.okfn.org/20
     The third manifestation of everyone’s favorite community conference about data - [csv,conf,v3](https://csvconf.com/) - happened in May 2017 at Eliot Center, Portland, Oregon. The conference brought together data makers/doers/hackers from various backgrounds to share knowledge and stories about data in a relaxed, convivial, alpaca-friendly (see below) environment. Several of our staff working across our Frictionless Data, OpenSpending, and Open Data for Development projects made the journey to Portland to help organize, give talks, and exchange stories about our lives with data and hear keynotes delivered by Laurie Allen, Heather Joseph, Mike Bostock, and Angela Bassa who provided a great framing for the conference through their insightful talks.
     
     ![csvconf](img/csv conf llama.jpg)
-
 
 - section: Research Highlights
   text: |
@@ -221,8 +214,7 @@ We also launched new [project participation guidelines](https://blog.okfn.org/20
       - label: OpenTrials beta walkthrough
         image: http://img.youtube.com/vi/_fBcaAUqv0g/0.jpg
         url: https://youtu.be/_fBcaAUqv0g
-        type: video
-        
+        type: video  
 
 - section: How to get involved
   text: |
