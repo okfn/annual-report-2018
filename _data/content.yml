@@ -32,9 +32,9 @@
 
     Three main lessons learned from the entire process can be found in the following research pieces:
 
-    *[Governing by rankings – How the Global Open Data Index helps advance the open data agenda](https://blog.okfn.org/2017/11/29/new-report-governing-by-rankings-how-the-global-open-data-index-helps-advance-the-open-data-agenda/) - Indicators are governance tools not only to benchmark, but also to drive progress around the objects they measure. But do open data indicators translate into better open data policies and publication of better data? This piece traces the actors mobilised around GODI, how they use different aspects of GODI (country results, individual data scores), and how this helped drive progress around open data.
-    *[How do open data measurements help water advocates to advance their mission?](https://blog.okfn.org/2017/11/23/how-do-open-data-measurements-help-water-advocates-to-advance-their-mission/) - Open data measurements like GODI are useful for governments to assess their own performance. But how do different members of civil society perceive the usefulness of open data measurements for their mission? This user study describes how access to water advocates perceive the Global Open Data Index and what information an indicator should include to increase relevance for them.
-    *[The State of Open Government Data in 2017](https://blog.okfn.org/files/2017/06/FinalreportTheStateofOpenGovernmentDatain2017.pdf) - A synthesis of GODI results, summarising key issues for open data publication and outlining solutions for different interest groups.
+    - [Governing by rankings – How the Global Open Data Index helps advance the open data agenda](https://blog.okfn.org/2017/11/29/new-report-governing-by-rankings-how-the-global-open-data-index-helps-advance-the-open-data-agenda/) - Indicators are governance tools not only to benchmark, but also to drive progress around the objects they measure. But do open data indicators translate into better open data policies and publication of better data? This piece traces the actors mobilised around GODI, how they use different aspects of GODI (country results, individual data scores), and how this helped drive progress around open data.
+    - [How do open data measurements help water advocates to advance their mission?](https://blog.okfn.org/2017/11/23/how-do-open-data-measurements-help-water-advocates-to-advance-their-mission/) - Open data measurements like GODI are useful for governments to assess their own performance. But how do different members of civil society perceive the usefulness of open data measurements for their mission? This user study describes how access to water advocates perceive the Global Open Data Index and what information an indicator should include to increase relevance for them.
+    - [The State of Open Government Data in 2017](https://blog.okfn.org/files/2017/06/FinalreportTheStateofOpenGovernmentDatain2017.pdf) - A synthesis of GODI results, summarising key issues for open data publication and outlining solutions for different interest groups.
 
     ![GODI research report](img/research_godi.png)
 
@@ -133,7 +133,7 @@
 
 - section: Network Highlights
   text: |
-    #### Open Knowledge Network
+    ### Open Knowledge Network
     [The Open Knowledge Network](https://okfn.org/network/) further developed in 2017. We welcomed [Nepal](http://oknp.org) as a new chapter and sadly said goodbye to Spain, who disbanded their organisation. There are now 11 formal Open Knowledge Chapters part of the network, and in additional we have national groups in 19 other countries. There are 5 affiliate organisations part of the network, who do not use the name Open Knowledge but subscribe to the same values and principles.
     We also launched new [project participation guidelines](https://blog.okfn.org/2017/08/21/fostering-open-inclusive-and-respectful-participation/), which spells out our expectations when taking part in our activities. These are aiming to help us move towards developing more inclusive and diverse communities, where everyone who wants to participate respectfully feels welcomed to do so.
 
@@ -143,12 +143,12 @@
     This past year, we have used the blog as the primary means of distributing new releases, tutorials, and walkthroughs from our Frictionless Data project.
 
     ### Open Knowledge International Events
-    ** Open Data Day 2017
+    #### Open Data Day 2017
     [Open Data Day](http://opendataday.org/) is the yearly event where we gather to reach out to new people and build new solutions to issues in our communities using open data. Saturday 4 March 2017 marked the 7th edition. In this year, the community has grown and evolved greatly: more than 300 events were registered around the world. We had the support of Hivos, Article19, SPARC and Hewlett to provide mini-grants for organising events in four tracks: Open Research, Open Data for Human Rights, Open Data for Environment and Open Contracting and Tracking Public Money Flows. We received more than 200 applications and were able to [support 44 events](https://blog.okfn.org/2017/02/24/announcing-the-2017-international-open-data-day-mini-grant-winners/), some of which in places that hosted an Open Data Day event for the first time. Following a blogging series on these and other Open Data Day events, we posted a [summary blog with a lookback on Open Data Day 2017](https://blog.okfn.org/2017/05/11/a-lookback-on-open-data-day-2017/) in early May.
 
     ![OD2017](img/map-ODD_2017.png)
 
-    ** Csv,conf,v3
+    #### Csv,conf,v3
     The third manifestation of everyone’s favorite community conference about data - [csv,conf,v3](https://csvconf.com/) - happened in May 2017 at Eliot Center, Portland, Oregon. The conference brought together data makers/doers/hackers from various backgrounds to share knowledge and stories about data in a relaxed, convivial, alpaca-friendly (see below) environment. Several of our staff working across our Frictionless Data, OpenSpending, and Open Data for Development projects made the journey to Portland to help organize, give talks, and exchange stories about our lives with data and hear keynotes delivered by Laurie Allen, Heather Joseph, Mike Bostock, and Angela Bassa who provided a great framing for the conference through their insightful talks.
 
     ![csvconf](img/csv conf llama.jpg)
