@@ -1,11 +1,11 @@
- - section: Message from Leadership
-text: | 
+- section: Message from Leadership
+  text: | 
     The past year has been a year of strengthening foundations and growth for Open Knowledge International (OKI). Looking ahead, we are wiser and learning from experience, while reviewing our aim of leading the forefront of the open knowledge movement. We have dedicated time to ensure the strategic and strengthening visions became evident, and now we see that our efforts are reaping success in variable ways.
     In October 2017 we received the resignation of and later announced the departure of our CEO Pavel Richter. This resulted in the existing leadership undertaking the role of CEO between them, with the backing of the Board. As of October 2017 Paul Walsh (CPO) and Mark Gibbs (COO) took over the day to day leadership of the organisation ensuring both continuity and stability of Open Knowledge International. The OKI Team are stable and focused on the future of our mission and have rallied together to ensure a successful transition of leadership.
     2018 is underway, and we are investing in fundraising efforts for both our grant funded projects, and also increasing our efforts on our commercial activity, which is strengthening with the increasing adoption by the Open Data community and others of our Fiscal Data Package product. We will balance delivering the day-to-day with new plans around realising the strategy, aligned with this new approach from Mark and Paul. The budget for 2018 is secure, the organisation is cash flow positive and our future planning is looking to ensure the delivery on our mission for years to come.  
 
--section: Highlights from our projects
-text: |
+- section: Highlights from our projects
+  text: |
     ### Frictionless Data
     [Frictionless Data](http://frictionlessdata.io/) is a collection of lightweight specifications and tooling for effortless collection, sharing, and validation of data. After close to 10 years of iterative work on the specifications themselves, and over a year of fine-tuning v1.0 release candidates, we were delighted this year to announce the release of the [Frictionless Data specifications](http://specs.frictionlessdata.io/), including [Table Schema](http://specs.frictionlessdata.io/table-schema/) and [Data Package](http://specs.frictionlessdata.io/data-package/).  Though our Tool Fund we have been able to support the community building on this work to build a [robust set of pre-built tooling](https://github.com/frictionlessdata) in Python, R, Javascript, Java, PHP, clojure, SPSS and Go.
     
@@ -89,8 +89,8 @@ text: |
     Processes around the release of a new CKAN version
     Handling and patching of reported vulnerabilities by the community
 
--section: Highlights from our collaborations
-text: |
+- section: Highlights from our collaborations
+  text: |
     ### Route-to-PA
     The [ROUTE-TO-PA project](http://routetopa.eu/) – Raising Open and User-friendly Transparency-Enabling Technologies fOr Public Administrations – is an 11 partner network aiming to make it easier to socially interact online about open data. The project supports municipalities in their approach of using the tools SPOD (Social Platform for Open Data) and TET (Transparency-Enhancing Toolset) and include them in projects around open data. The deadline of the Horizon 2020 project was successfully extended to end of May 2018, thus guaranteeing a more tangible and effective outcome of the project.
     
