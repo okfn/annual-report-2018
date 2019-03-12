@@ -29,42 +29,45 @@
     Working closely with GIFT we work with national governments ranging from Croatia to Mexico and from South Africa to Argentina, to help them publish their budgets in the Fiscal Data Package format. The resulting data is all available on our central portal [OpenSpending](https://openspending.org/), which provides easy ways to find data with the [OS Explorer](https://openspending.org/s/); multiple ways of visualising the data out-of-the-box via the OS Viewer; as well as a sophisticated API for more technical users of the data. 
 
     ![OS viewer](img/fiscal.png)
-
     Example visualisation on OpenSpending.org of Budget data from Croatia
 
     In 2019 we will continue to work closely with both publishers and users of government budget and spending data. Please get in touch with us via [openspending-support@okfn.org](mailto:openspending-support@okfn.org) if you would like to learn more or discuss a potential collaboration.
 
-    ### OpenTrials
-    [OpenTrials](https://opentrials.net/) is a collaboration between Open Knowledge International and Dr Ben Goldacre from the University of Oxford’s Evidence-Based Medicine Data Lab. It aims to locate, match, and share all publicly accessible data and documents, on all trials conducted, on all medicines and other treatments, globally. Following the [beta launch](http://opentrials.net/2016/10/10/opentrials-launches-beta-version-today-at-the-world-health-summit/) at the end of 2016, OpenTrials finished Phase 1 funding in the spring of 2017 – this means that the team is having a break, with the project on hold until we secure Phase 2 funding. The OpenTrials search tools and API can be tested through [explorer.opentrials.net](http://explorer.opentrials.net): a summary of what we’ve built, events we’ve been involved in, some challenges and successes of the project so far and details on how to get involved can be found on [the OpenTrials blog](https://opentrials.net/2017/04/26/end-of-opentrials-phase-1/).
-
-    ![OpenTrials](img/opentrials.png)
-
     ### School of Data
     [School of Data](http://schoolofdata.org/) is a global network dedicated to advancing data literacy in civil society. Since 2012, we have been working with CSOs and journalists to amplify their work with data: raising awareness of its possibilities and teaching the skills required, and training trainers how to pass this knowledge on.
 
-    ![SCODA](img/schoolofdata.png)
+    ![Data](img/data.jpg)
 
-    In 2017, we ran the fourth edition of our annual fellowship programme, in which we aim to recruit and train the next generation of data leaders and trainers to magnify the reach of our data literacy programme. This year, we continued the thematic approach pioneered by the 2016 class and therefore recruited individuals who already possessed experience in a specific area of data literacy training - for example, extractives data, and with an established network of practitioners already working within this field. We recruited some fantastic applicants for our class of 2017 fellows, who are based in Senegal, Cote D’Ivoire, Haiti, Myanmar and Guatemala.
+     In 2018, we ran the sixth edition of our annual fellowship programme, in which we aim to recruit and train the next generation of data leaders and trainers to magnify the reach of our data literacy programme. This year, we continued the thematic approach pioneered by the 2016 class and therefore recruited individuals who already possessed experience in a specific area of data literacy training - for example: extractives data - and with established practitioners already working within this field. We recruited some fantastic applicants for our class of 2018 fellows who are based in Bolivia, Tanzania, Guatemala, Kenya, Malawi, the Philippines, Ghana and Indonesia. We partnered with organisations interested in working on the fellows’ respective themes in the region local to them, who have provided the fellows with guidance, mentorship and expertise.
 
-    2017 also saw the formal launch of our Data Expert programme, which aims to enhance the abilities of CSOs already versed in data literacy, to manage and deliver data driven projects. It was designed to complement the School of Data Fellowship and for it, we recruited candidates of a slightly different profile. Data Experts are expected to be more senior than fellows, with demonstrable technical and project management skills. A Data Expert may work in two ways: by being embedded in a specific organisation, and working intensively to transform this organisation, or by mentoring a small number of organisations that are selected for their projects. This year we were delighted to recruit two data experts, both working in the field of extractives data, in Tanzania and Uganda.
+    Instead of our annual Summer Camp, this year we held two events in Nairobi, Kenya and Manila, the Philippines. In both cases, members of our coordination team travelled out to meet up with groups of fellows for onboarding, workshopping and mapping out the shape of each fellow’s programme. This also gave the fellows an opportunity to meet their peers, build contacts and share their skills. 
 
-    For both programmes, we partnered with organisations interested in working on the fellows’/experts’ respective themes, who have provided the Fellows and Experts with guidance, mentorship and expertise in their respective domains.
+    In other highlights, we designed and produced a [modular curriculum](https://school-of-data.github.io/lgticurriculum/) to develop foundational data skills for students and trainers of the Local Government Training Institute in Tanzania. We did a training in Washington DC for the Data Collaboratives for Local Impact Fellows, building on the work we did with the organisation in 2017. In September, in Buenos Aires, we gave a joint talk with representatives of the World Bank and DataKind UK at the [International Open Data Conference](https://www.opendatacon.org/). And finally our coordination team expanded as we welcomed Yan Naung Oak, a former fellow whom we are delighted to now have working on delivering the class of 2018’s programme! 
 
-    In May, both Experts and Fellows came together during an in-person [Summer Camp](https://schoolofdata.org/2017/10/03/2017-summer-camp-dispatch-1-thank-you/) in Dar Es Salaam, Tanzania to meet their peers, build and share their skills, and learn about the School of Data way of training people. Right on the beach, the location couldn’t have been better and the sun always shone! For the first time, Summer Camp went live, with broadcasts of many sessions going out throughout the days. We had great feedback and are really pleased that we were able to open up the event and have many more people virtually join us.
+    ![SCODA workflow](img/scoda.png)
+    School of Data methodology: the (Data Pipeline)(https://schoolofdata.org/methodology/)
 
-    ![SCODA summer camp](img/scoda.jpg)
+    ### Case studies
+    For over a decade we have been drawing on experience in technology, training, policy, and research; pioneering openness in new areas. In 2018 we published a number of case studies highlighting our work in different areas:
+    
+    - Facilitating data validation and reuse
+    We worked with eLife to assess the quality of this published data and a way to identify issues to inform a strategy for improving data quality.
+    - Versatile visualisation of open budget data
+    We worked with IBP to build an interactive Data Explorer that allows users to visualise and interact with the data from current and previous surveys.
+    - Creating an open data publication toolkit
+    Details how anyone interested in publishing data can use the Frictionless Data software to improve the quality of their datasets.
+    - Celebrating open data with communities across the world
+    Open Data Day is an annual event organised by the open data community, which Open Knowledge International helps support and catalyse.
+    - Building an open database of information on all clinical trials
+    We worked with the Centre for Evidence-Based Medicine to build OpenTrials, an open database of information about the world’s clinical research trials.
+    - Frictionless publication and use of fiscal data
+    Anyone should be able access and analyse all fiscal data they are interested in easily. So Open Knowledge International developed the Fiscal Data Package.
+    - Mapping the state of open government data across the globe
+    Launched in 2013, the Global Open Data Index was the first major assessment of the state of open government data in the world.
 
-    ### CKAN
-    [CKAN](https://ckan.org/) is the world-leading open source software for Open Data portals. Open Knowledge International is part of the CKAN Association Steering Group and an active member of the community that helps maintain it. The main focus in 2017 for us has been on increasing the capacity of the CKAN Technical Team, the team of developers tasked with the maintenance of the core CKAN source code and responsible for technical decisions about it. We started a process of mentoring new developers in order to familiarize them with the code base and the processes around it. That involved the assignment and reviewing of increasingly complex tasks, guidance on particular issues, pair programming, etc. In parallel to this mentoring, there was an effort being made to improve the documentation to make easier for new developers to familiarize themselves with the workings of the code base and the Technical Team.
+    ![Case studies](img/casestudies.png)
 
-    ![CKAN](img/ckan.png)
-
-    The other front where we dedicated resources was the promotion of external contributions. These are contributions in form of code (bug fixes, new features, etc), new documentation, testing time and others which are carried out by other members of the community. To increase these, apart from the improvements on documentation mentioned before, we engaged with developers to involve them in the process of getting new features or fixes into the code base, encouraging them to submit patches under the guidance of a member of the Technical Team.
-
-    In parallel, we leveraged our existing CKAN expertise to support tasks around development and maintenance of the main CKAN code base. More specifically we have mentored and supported the new members of the technical team on three main areas:
-    Migration of the code base to a more modern web framework
-    Processes around the release of a new CKAN version
-    Handling and patching of reported vulnerabilities by the community
+    
 
 - section: Highlights from our collaborations
   text: |
