@@ -203,23 +203,23 @@
         url: https://www.youtube.com/watch?v=6weytuNyQIM
         image: https://img.youtube.com/vi/6weytuNyQIM/0.jpg
         type: video
-      - label: Frictionless Data: DataFlows and Data Factory walkthrough
+      - label: "Frictionless Data: DataFlows and Data Factory walkthrough"
         image: http://img.youtube.com/vi/8SfS7DOLOVk/0.jpg
         url: https://www.youtube.com/watch?v=8SfS7DOLOVk
         type: video
-      - label: Frictionless Data: Data Package Creator walkthrough
+      - label: "Frictionless Data: Data Package Creator walkthrough"
         image: http://img.youtube.com/vi/VrdPj28-L9g/0.jpg
         url: https://www.youtube.com/watch?v=VrdPj28-L9g
         type: video
-      - label: Frictionless Data: continuous data validation on the web using goodtables
+      - label: "Frictionless Data: continuous data validation on the web using goodtables"
         image: http://img.youtube.com/vi/9YHwu34D_vM/0.jpg
         url: https://www.youtube.com/watch?v=9YHwu34D_vM
         type: video
-      - label: Frictionless Data: try.goodtables.io walkthrough
+      - label: "Frictionless Data: try.goodtables.io walkthrough"
         image: http://img.youtube.com/vi/QSvbMmvhxN8/0.jpg
         url: https://www.youtube.com/watch?v=QSvbMmvhxN8
         type: video
-      - label: Frictionless Data: goodtables CLI walkthrough
+      - label: "Frictionless Data: goodtables CLI walkthrough"
         image: http://img.youtube.com/vi/PqtM6d696eY/0.jpg
         video: https://www.youtube.com/watch?v=PqtM6d696eY
       - label: Open Data Day 2018 community call
