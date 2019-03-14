@@ -45,32 +45,25 @@
     In other highlights, we designed and produced a [modular curriculum](https://school-of-data.github.io/lgticurriculum/) to develop foundational data skills for students and trainers of the Local Government Training Institute in Tanzania. We did a training in Washington DC for the Data Collaboratives for Local Impact Fellows, building on the work we did with the organisation in 2017. In September, in Buenos Aires, we gave a joint talk with representatives of the World Bank and DataKind UK at the [International Open Data Conference](https://www.opendatacon.org/). And finally our coordination team expanded as we welcomed Yan Naung Oak, a former fellow whom we are delighted to now have working on delivering the class of 2018’s programme! 
 
     ![SCODA workflow](img/scoda.png)
-    School of Data methodology: the (Data Pipeline)(https://schoolofdata.org/methodology/)
+    School of Data methodology: the [Data Pipeline](https://schoolofdata.org/methodology/)
 
     ### Case studies
     For over a decade we have been drawing on experience in technology, training, policy, and research; pioneering openness in new areas. In 2018 we published a number of case studies highlighting our work in different areas:
     
-    - Facilitating data validation and reuse
-    
-    ⋅⋅⋅We worked with eLife to assess the quality of this published data and a way to identify issues to inform a strategy for improving data quality.
-    - Versatile visualisation of open budget data
-    
-    ⋅⋅⋅We worked with IBP to build an interactive Data Explorer that allows users to visualise and interact with the data from current and previous surveys.
-    - Creating an open data publication toolkit
-    
-    ⋅⋅⋅Details how anyone interested in publishing data can use the Frictionless Data software to improve the quality of their datasets.
-    - Celebrating open data with communities across the world
-    
-    ⋅⋅⋅Open Data Day is an annual event organised by the open data community, which Open Knowledge International helps support and catalyse.
-    - Building an open database of information on all clinical trials
-    
-    ⋅⋅⋅We worked with the Centre for Evidence-Based Medicine to build OpenTrials, an open database of information about the world’s clinical research trials.
-    - Frictionless publication and use of fiscal data
-    
-    ⋅⋅⋅Anyone should be able access and analyse all fiscal data they are interested in easily. So Open Knowledge International developed the Fiscal Data Package.
-    - Mapping the state of open government data across the globe
-    
-    ⋅⋅⋅Launched in 2013, the Global Open Data Index was the first major assessment of the state of open government data in the world.
+    - [Facilitating data validation and reuse](https://okfn.org/tools-services/case-studies/facilitating-data-validation-and-reuse)
+    We worked with eLife to assess the quality of this published data and a way to identify issues to inform a strategy for improving data quality.
+    - [Versatile visualisation of open budget data](https://okfn.org/tools-services/case-studies/versatile-visualisation-of-open-budget-data)
+    We worked with IBP to build an interactive Data Explorer that allows users to visualise and interact with the data from current and previous surveys.
+    - [Creating an open data publication toolkit](https://okfn.org/tools-services/case-studies/creating-an-open-data-publication-toolkit)
+    Details how anyone interested in publishing data can use the Frictionless Data software to improve the quality of their datasets.
+    - [Celebrating open data with communities across the world](https://okfn.org/tools-services/case-studies/open-data-day-2018)
+    Open Data Day is an annual event organised by the open data community, which Open Knowledge International helps support and catalyse.
+    - [Building an open database of information on all clinical trials](https://okfn.org/tools-services/case-studies/building-open-database-clinical-trials-information)
+    We worked with the Centre for Evidence-Based Medicine to build OpenTrials, an open database of information about the world’s clinical research trials.
+    - [Frictionless publication and use of fiscal data](https://okfn.org/tools-services/case-studies/frictionless-publication-and-use-fiscal-data)
+    Anyone should be able access and analyse all fiscal data they are interested in easily. So Open Knowledge International developed the Fiscal Data Package.
+    - [Mapping the state of open government data across the globe](https://okfn.org/tools-services/case-studies/mapping-state-open-government-data-across-globe)
+    Launched in 2013, the Global Open Data Index was the first major assessment of the state of open government data in the world.
 
     ![Case studies](img/casestudies.png)
 
@@ -100,7 +93,7 @@
     
     The Measurement Guide is available online in the form of a Gitbook and in a printable PDF version. People interested in using the indicators to measure open data can visit the indicator tables for each principle, or find the guide’s raw data here.
 
-    ![guide](img/measurement-png)
+    ![guide](img/measurement.png)
 
     ### OpenGLAM
     OpenGLAM is a global network of people and organisations who are working to open up content and data held by Galleries, Libraries, Archives and Museums. Community members from Wikimedia, Open Knowledge International and Creative Commons joined forces in the spring of 2018 to reinvigorate the OpenGLAM initiative. As a first step, contributors from different parts of the world were invited to share curation of the [@openglam Twitter account](https://twitter.com/openglam) to showcase and highlight the way in which OpenGLAM is being understood in different contexts. A second step was the creation of a survey to check up on the continued impact of the [OpenGLAM Principles](https://openglam.org/principles/): over a hundred responses were received. In 2019, the community looks forward to updating the principles and the website, as well as having monthly OpenGLAM calls open to everyone working in the OpenGLAM field to join.
@@ -160,7 +153,7 @@
     #### IODC 2018
     The International Open Data Conference was a great opportunity for us to share our work, but more importantly learn from all the great minds working with Open Data across the globe. We participated in the Open Data for Development workshop, explored how to better connect budget and contracting data in the Open Contracting Partnership workshop, shared our perspective on Frictionless Data in the [Data Standards workshop](https://twitter.com/jqnatividad/status/1044934444010950656), and discussed developments on [Open Data Infrastructure and Data Governance](https://blog.okfn.org/2019/02/20/open-data-governance-and-open-governance-interplay-or-disconnect/) in a panel - specifically highlighting how important it is for governments to more strategically approach governance as an integral part of their open data policies. Lessons can be learned from leading local governments, who are in some cases more advanced than their national counterparts. 
 
-    ![iodc](img/iodc.jpg)
+    ![iodc](img/iodc.png)
     
     We had the chance of running a workshop on Open Washing along with members of the Web Foundation. During the workshop we discussed four main questions
 
@@ -177,15 +170,13 @@
 
     Our research is undertaken in-house, for and in collaboration with civil society groups, universities, journalists, policy-makers, and public institutions. In 2018 we published the following reports:
 
-    - The Open Data Charter Measurement Guide in collaboration with the Open Data Charter and the Web Foundation
-    - Advancing Sustainability Together? Citizen-Generated Data and the Sustainable Development Goals - the result of a collaboration with King’s College London, Public Data Lab and the Global Partnership for Sustainable Development Data
-    - Choosing and engaging with citizen generated data accompanying the above report
-    
-    ⋅⋅⋅A set of recommendations to the European Parliament and the Council to improve the PSI Directive which regulates the reuse of public sector information
-    - Africa’s open government data - Findings from the Africa Open Data Index and Africa Data Revolution Report. 
-    
-    ⋅⋅⋅The Africa Open Data Index (AODI), a regional version of our Global Open Data Index, collected baseline data on open data publication in 30 African countries to provide input for the second Africa Data Revolution Report. 
-    - State of Open Data report: chapter on Open Data & Western Europe (publication forthcoming) 
+    - The [Open Data Charter Measurement Guide](https://blog.okfn.org/2018/05/21/the-open-data-charter-measurement-guide-is-out-now/) in collaboration with the Open Data Charter and the Web Foundation
+    - [Advancing Sustainability Together? Citizen-Generated Data and the Sustainable Development Goals](http://www.data4sdgs.org/sites/default/files/services_files/Advancing%20Sustainability%20Together%20CGD%20Report_0.pdf) - the result of a collaboration with King’s College London, Public Data Lab and the Global Partnership for Sustainable Development Data
+    - [Choosing and engaging with citizen generated data](http://www.data4sdgs.org/sites/default/files/services_files/Choosing%20and%20Engaging%20with%20CGD_The%20Guide.pdf) accompanying the above report
+    A [set of recommendations](https://blog.okfn.org/2018/06/21/europes-proposed-psi-directive-a-good-baseline-for-future-open-data-policies/) to the European Parliament and the Council to improve the PSI Directive which regulates the reuse of public sector information
+    - [Africa’s open government data - Findings from the Africa Open Data Index and Africa Data Revolution Report](https://blog.okfn.org/2019/03/05/how-open-is-government-data-in-africa/). 
+    The [Africa Open Data Index](http://test-african-data.survey.okfn.org/) (AODI), a regional version of our Global Open Data Index, collected baseline data on open data publication in 30 African countries to provide input for the second [Africa Data Revolution Report](http://webfoundation.org/docs/2019/03/Africa-data-revolution-report.pdf). 
+    - State of Open Data report: [chapter on Open Data & Western Europe](https://medium.com/@stateofopendata/regional-perspectives-on-the-state-of-open-data-baf7b9cd7587) (publication forthcoming) 
 
     ![ADRR](img/adrrindex.png)
 
@@ -202,6 +193,14 @@
       - label: EU datathon - Sander van der Waal on Infrastructure, Standards and Governance
         url: https://www.youtube.com/watch?v=6weytuNyQIM
         image: https://img.youtube.com/vi/6weytuNyQIM/0.jpg
+        type: video
+      - label: Open Data Day 2018 community call
+        image: http://img.youtube.com/vi/IkDbvZwgNBo/0.jpg
+        url: https://www.youtube.com/watch?v=IkDbvZwgNBo 
+        type: video
+      - label: Route-TO-PA working group
+        image: http://img.youtube.com/vi/57C8QAxBHHY/0.jpg
+        url: https://www.youtube.com/watch?v=57C8QAxBHHY
         type: video
       - label: "Frictionless Data: DataFlows and Data Factory walkthrough"
         image: http://img.youtube.com/vi/8SfS7DOLOVk/0.jpg
@@ -222,14 +221,6 @@
       - label: "Frictionless Data: goodtables CLI walkthrough"
         image: http://img.youtube.com/vi/PqtM6d696eY/0.jpg
         video: https://www.youtube.com/watch?v=PqtM6d696eY
-      - label: Open Data Day 2018 community call
-        image: http://img.youtube.com/vi/IkDbvZwgNBo/0.jpg
-        url: https://www.youtube.com/watch?v=IkDbvZwgNBo 
-        type: video
-      - label: Route-TO-PA working group
-        image: http://img.youtube.com/vi/57C8QAxBHHY/0.jpg
-        url: https://www.youtube.com/watch?v=57C8QAxBHHY
-        type: video
 
 - section: How to get involved
   text: |
