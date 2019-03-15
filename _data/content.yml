@@ -11,7 +11,7 @@
 - section: Highlights from our projects
   text: |
     ### Frictionless Data
-    With [Frictionless Data](http://frictionlessdata.io/), we focus specifically on reducing friction around discoverability, structure, standardisation and tooling. More generally, the technicalities around the preparation, validation and sharing of data - in ways that both enhance existing workflows and enable new ones - towards the express goal of minimising the gap between data and insight. We do this by creating [specifications](https://frictionlessdata.io/specs/) and [software](https://frictionlessdata.io/software/) that are primarily informed by reuse (of existing formats and standards), conceptual minimalism, and platform-agnostic interoperability.
+    With [Frictionless Data](https://frictionlessdata.io/), we focus specifically on reducing friction around discoverability, structure, standardisation and tooling. More generally, the technicalities around the preparation, validation and sharing of data - in ways that both enhance existing workflows and enable new ones - towards the express goal of minimising the gap between data and insight. We do this by creating [specifications](https://frictionlessdata.io/specs/) and [software](https://frictionlessdata.io/software/) that are primarily informed by reuse (of existing formats and standards), conceptual minimalism, and platform-agnostic interoperability.
 
     ![Frictionless Data](img/fd-logo.png)
 
@@ -34,7 +34,7 @@
     In 2019 we will continue to work closely with both publishers and users of government budget and spending data. Please get in touch with us via [openspending-support@okfn.org](mailto:openspending-support@okfn.org) if you would like to learn more or discuss a potential collaboration.
 
     ### School of Data
-    [School of Data](http://schoolofdata.org/) is a global network dedicated to advancing data literacy in civil society. Since 2012, we have been working with CSOs and journalists to amplify their work with data: raising awareness of its possibilities and teaching the skills required, and training trainers how to pass this knowledge on.
+    [School of Data](https://schoolofdata.org/) is a global network dedicated to advancing data literacy in civil society. Since 2012, we have been working with CSOs and journalists to amplify their work with data: raising awareness of its possibilities and teaching the skills required, and training trainers how to pass this knowledge on.
 
     ![Data](img/data.jpg)
 
@@ -67,10 +67,10 @@
 
     The OBS is the world’s only independent, comparative assessment of the three pillars of public budget accountability: transparency, oversight and public participation.
 
-    The [Data Explorer](http://survey.internationalbudget.org/), first created by Open Knowledge International in 2006 and updated for the release of this year’s survey, allows users to visualise the data from current and previous surveys in a number of different ways.
+    The [Data Explorer](https://survey.internationalbudget.org/), first created by Open Knowledge International in 2006 and updated for the release of this year’s survey, allows users to visualise the data from current and previous surveys in a number of different ways.
     
     ![timeline](img/budget.png)
-    *Open Budget Survey Data Explorer, [Timeline view](http://survey.internationalbudget.org/#timeline)*
+    *Open Budget Survey Data Explorer, [Timeline view](https://survey.internationalbudget.org/#timeline)*
 
     ### Citizen-generated data research
     This year we worked with King’s College London and the Public Data Lab to produce [Advancing Sustainability Together? Citizen-Generated Data and the Sustainable Development Goals](http://www.data4sdgs.org/sites/default/files/services_files/Advancing%20Sustainability%20Together%20CGD%20Report_0.pdf), a report for the [Global Partnership for Sustainable Development Data](http://www.data4sdgs.org). The work was designed to kick-start conversations around the different approaches of doing and organising citizen-generated data (CGD). When CGD becomes good enough depends on the purpose it is used for but also how CGD is situated in relation to other data.
@@ -127,13 +127,13 @@
 - section: Network Highlights
   text: |
     ### Summary
-    The [The Open Knowledge Network](https://okfn.org/network/) has been growing and keeps covering more topics related to open knowledge. We welcomed a new group in [Somalia](http://so.okfn.org/) and we are in the process of welcoming two new groups to the Open Knowledge Network. 
+    The [The Open Knowledge Network](https://okfn.org/network/) has been growing and keeps covering more topics related to open knowledge. We welcomed a new group in [Somalia](https://so.okfn.org/) and we are in the process of welcoming two new groups to the Open Knowledge Network. 
 
     We also hosted a series of community calls in the OK Virtual Summit in May 2018. We had the chance to talk to most of our active Network members about priorities, how they see the Network and why it still makes sense to belong to the OK Network. We are always eager to hear about the amazing work that the Network members do. 
 
     ### Open Knowledge International Events
     #### Open Data Day 2018
-    The eighth edition of [Open Data Day](http://opendataday.org/) took place in March: an exciting milestone for the open data communities and a great opportunity to put open data into action. A total of 406 events were registered on our world map, almost 100 more events than 2017. We have noticed growth mostly in the global south, specifically in African and Latin American countries.
+    The eighth edition of [Open Data Day](https://opendataday.org/) took place in March: an exciting milestone for the open data communities and a great opportunity to put open data into action. A total of 406 events were registered on our world map, almost 100 more events than 2017. We have noticed growth mostly in the global south, specifically in African and Latin American countries.
 
     45 events received funding through the [Open Data Day mini-grants funding](https://blog.okfn.org/2018/02/20/announcing-the-2018-international-open-data-day-mini-grant-winners/) provided by SPARC, the Open Contracting Program of Hivos, Mapbox, the Hewlett Foundation and the Foreign and Commonwealth Office of the United Kingdom. For 2018, the focus was on four key areas that open data can help solve: following public money flows, open research data, open mapping, and equal development. Based on the information provided by the groups that requested a mini-grant, most of them were organising an Open Data Day event for the first time. 
 
@@ -159,7 +159,7 @@
 
 - section: Research Highlights
   text: |
-    We investigate ways to put information into use for society. We develop methods to study data use, investigate what makes information useful and usable and explore ways of organising and collaborating around information in data communities. In the area of information politics, we test legal tools to unlock key data for society, develop collaborative databases as open laboratories for the publication of data and advance assessment methods through the [Open Data Survey](http://census.okfn.org/en/latest/).
+    We investigate ways to put information into use for society. We develop methods to study data use, investigate what makes information useful and usable and explore ways of organising and collaborating around information in data communities. In the area of information politics, we test legal tools to unlock key data for society, develop collaborative databases as open laboratories for the publication of data and advance assessment methods through the [Open Data Survey](https://census.okfn.org/en/latest/).
 
     Our research is undertaken in-house, for and in collaboration with civil society groups, universities, journalists, policy-makers, and public institutions. In 2018 we published the following reports:
 
@@ -168,7 +168,7 @@
     - [Choosing and engaging with citizen generated data](http://www.data4sdgs.org/sites/default/files/services_files/Choosing%20and%20Engaging%20with%20CGD_The%20Guide.pdf) accompanying the above report
     A [set of recommendations](https://blog.okfn.org/2018/06/21/europes-proposed-psi-directive-a-good-baseline-for-future-open-data-policies/) to the European Parliament and the Council to improve the PSI Directive which regulates the reuse of public sector information
     - [Africa’s open government data - Findings from the Africa Open Data Index and Africa Data Revolution Report](https://blog.okfn.org/2019/03/05/how-open-is-government-data-in-africa/). 
-    The [Africa Open Data Index](http://test-african-data.survey.okfn.org/) (AODI), a regional version of our Global Open Data Index, collected baseline data on open data publication in 30 African countries to provide input for the second [Africa Data Revolution Report](http://webfoundation.org/docs/2019/03/Africa-data-revolution-report.pdf). 
+    The [Africa Open Data Index](http://test-african-data.survey.okfn.org/) (AODI), a regional version of our Global Open Data Index, collected baseline data on open data publication in 30 African countries to provide input for the second [Africa Data Revolution Report](https://webfoundation.org/docs/2019/03/Africa-data-revolution-report.pdf). 
     - State of Open Data report: [chapter on Open Data & Western Europe](https://medium.com/@stateofopendata/regional-perspectives-on-the-state-of-open-data-baf7b9cd7587) (publication forthcoming) 
 
     ![ADRR](img/adrrindex.png)
@@ -188,41 +188,41 @@
         image: https://img.youtube.com/vi/6weytuNyQIM/0.jpg
         type: video
       - label: Open Data Day 2018 community call
-        image: http://img.youtube.com/vi/IkDbvZwgNBo/0.jpg
+        image: https://img.youtube.com/vi/IkDbvZwgNBo/0.jpg
         url: https://www.youtube.com/watch?v=IkDbvZwgNBo 
         type: video
       - label: Route-TO-PA working group
-        image: http://img.youtube.com/vi/57C8QAxBHHY/0.jpg
+        image: https://img.youtube.com/vi/57C8QAxBHHY/0.jpg
         url: https://www.youtube.com/watch?v=57C8QAxBHHY
         type: video
       - label: School of Data Mixlr channel
         image: https://cdn.slidesharecdn.com/ss_thumbnails/dataliteracyconference-schoolofdatapresentation-160924125214-thumbnail-4.jpg
-        url: http://mixlr.com/schoolofdata/showreel/
+        url: https://mixlr.com/schoolofdata/showreel/
         type: post
       - label: "Frictionless Data: DataFlows and Data Factory walkthrough"
-        image: http://img.youtube.com/vi/8SfS7DOLOVk/0.jpg
+        image: https://img.youtube.com/vi/8SfS7DOLOVk/0.jpg
         url: https://www.youtube.com/watch?v=8SfS7DOLOVk
         type: video
       - label: "Frictionless Data: Data Package Creator walkthrough"
-        image: http://img.youtube.com/vi/VrdPj28-L9g/0.jpg
+        image: https://img.youtube.com/vi/VrdPj28-L9g/0.jpg
         url: https://www.youtube.com/watch?v=VrdPj28-L9g
         type: video
       - label: "Frictionless Data: continuous data validation on the web using goodtables"
-        image: http://img.youtube.com/vi/9YHwu34D_vM/0.jpg
+        image: https://img.youtube.com/vi/9YHwu34D_vM/0.jpg
         url: https://www.youtube.com/watch?v=9YHwu34D_vM
         type: video
       - label: "Frictionless Data: try.goodtables.io walkthrough"
-        image: http://img.youtube.com/vi/QSvbMmvhxN8/0.jpg
+        image: https://img.youtube.com/vi/QSvbMmvhxN8/0.jpg
         url: https://www.youtube.com/watch?v=QSvbMmvhxN8
         type: video
       - label: "Frictionless Data: goodtables CLI walkthrough"
-        image: http://img.youtube.com/vi/PqtM6d696eY/0.jpg
+        image: https://img.youtube.com/vi/PqtM6d696eY/0.jpg
         video: https://www.youtube.com/watch?v=PqtM6d696eY
 
 - section: How to get involved
   text: |
     - Over 4,000 people are members of the Open Knowledge Discuss Forum - join the [discussion here](https://discuss.okfn.org/)!
-    - Looking to get hacking? Open Knowledge Labs is a community of civic hackers, data wranglers and ordinary citizens making tools and insights using open data, open content and open code. [Join in](http://okfnlabs.org/)!
+    - Looking to get hacking? Open Knowledge Labs is a community of civic hackers, data wranglers and ordinary citizens making tools and insights using open data, open content and open code. [Join in](https://okfnlabs.org/)!
 
     Our community is what keeps us motivated! We want to keep you informed of what we’re working and hear what you’ve been up to. Check out the [Discourse Forum](https://discuss.okfn.org/) for more.
 
