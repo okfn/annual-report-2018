@@ -50,27 +50,13 @@
     ### Case studies
     For over a decade we have been drawing on experience in technology, training, policy, and research; pioneering openness in new areas. In 2018 we published a number of case studies highlighting our work in different areas:
     
-    - [Facilitating data validation and reuse](https://okfn.org/tools-services/case-studies/facilitating-data-validation-and-reuse)
-    
-    We worked with eLife to assess the quality of this published data and a way to identify issues to inform a strategy for improving data quality.
-    - [Versatile visualisation of open budget data](https://okfn.org/tools-services/case-studies/versatile-visualisation-of-open-budget-data)
-    
-    We worked with IBP to build an interactive Data Explorer that allows users to visualise and interact with the data from current and previous surveys.
-    - [Creating an open data publication toolkit](https://okfn.org/tools-services/case-studies/creating-an-open-data-publication-toolkit)
-    
-    Details how anyone interested in publishing data can use the Frictionless Data software to improve the quality of their datasets.
-    - [Celebrating open data with communities across the world](https://okfn.org/tools-services/case-studies/open-data-day-2018)
-    
-    Open Data Day is an annual event organised by the open data community, which Open Knowledge International helps support and catalyse.
-    - [Building an open database of information on all clinical trials](https://okfn.org/tools-services/case-studies/building-open-database-clinical-trials-information)
-   
-    We worked with the Centre for Evidence-Based Medicine to build OpenTrials, an open database of information about the world’s clinical research trials.
-    - [Frictionless publication and use of fiscal data](https://okfn.org/tools-services/case-studies/frictionless-publication-and-use-fiscal-data)
-    
-    Anyone should be able access and analyse all fiscal data they are interested in easily. So Open Knowledge International developed the Fiscal Data Package.
-    - [Mapping the state of open government data across the globe](https://okfn.org/tools-services/case-studies/mapping-state-open-government-data-across-globe)
-    
-    Launched in 2013, the Global Open Data Index was the first major assessment of the state of open government data in the world.
+    - [Facilitating data validation and reuse](https://okfn.org/tools-services/case-studies/facilitating-data-validation-and-reuse): We worked with eLife to assess the quality of this published data and a way to identify issues to inform a strategy for improving data quality.
+    - [Versatile visualisation of open budget data](https://okfn.org/tools-services/case-studies/versatile-visualisation-of-open-budget-data): We worked with IBP to build an interactive Data Explorer that allows users to visualise and interact with the data from current and previous surveys.
+    - [Creating an open data publication toolkit](https://okfn.org/tools-services/case-studies/creating-an-open-data-publication-toolkit): Details how anyone interested in publishing data can use the Frictionless Data software to improve the quality of their datasets.
+    - [Celebrating open data with communities across the world](https://okfn.org/tools-services/case-studies/open-data-day-2018): Open Data Day is an annual event organised by the open data community, which Open Knowledge International helps support and catalyse.
+    - [Building an open database of information on all clinical trials](https://okfn.org/tools-services/case-studies/building-open-database-clinical-trials-information): We worked with the Centre for Evidence-Based Medicine to build OpenTrials, an open database of information about the world’s clinical research trials.
+    - [Frictionless publication and use of fiscal data](https://okfn.org/tools-services/case-studies/frictionless-publication-and-use-fiscal-data): Anyone should be able access and analyse all fiscal data they are interested in easily. So Open Knowledge International developed the Fiscal Data Package.
+    - [Mapping the state of open government data across the globe](https://okfn.org/tools-services/case-studies/mapping-state-open-government-data-across-globe): Launched in 2013, the Global Open Data Index was the first major assessment of the state of open government data in the world.
 
     ![Case studies](img/casestudies.png)
 
